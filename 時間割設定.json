@@ -1,0 +1,9002 @@
+{
+ "v": 1,
+ "days": [
+  "月",
+  "火",
+  "水",
+  "木",
+  "金",
+  "土"
+ ],
+ "periods": [
+  6,
+  6,
+  6,
+  5,
+  6,
+  0
+ ],
+ "classes": [
+  {
+   "id": "c1A",
+   "name": "1年A組",
+   "homerooms": [
+    "t5"
+   ]
+  },
+  {
+   "id": "c1B",
+   "name": "1年B組",
+   "homerooms": [
+    "t19"
+   ]
+  },
+  {
+   "id": "c1C",
+   "name": "1年C組",
+   "homerooms": [
+    "t27",
+    "t10"
+   ]
+  },
+  {
+   "id": "c1D",
+   "name": "1年D組",
+   "homerooms": [
+    "t1"
+   ]
+  },
+  {
+   "id": "c1E",
+   "name": "1年E組",
+   "homerooms": [
+    "t26"
+   ]
+  },
+  {
+   "id": "c1F",
+   "name": "1年F組",
+   "homerooms": [
+    "t21"
+   ]
+  },
+  {
+   "id": "c2A",
+   "name": "2年A組",
+   "homerooms": [
+    "t2"
+   ]
+  },
+  {
+   "id": "c2B",
+   "name": "2年B組",
+   "homerooms": [
+    "t6"
+   ]
+  },
+  {
+   "id": "c2C",
+   "name": "2年C組",
+   "homerooms": [
+    "t25",
+    "t7"
+   ]
+  },
+  {
+   "id": "c2D",
+   "name": "2年D組",
+   "homerooms": [
+    "t14"
+   ]
+  },
+  {
+   "id": "c2E",
+   "name": "2年E組",
+   "homerooms": [
+    "t11"
+   ]
+  },
+  {
+   "id": "c3A",
+   "name": "3年A組",
+   "homerooms": [
+    "t12"
+   ]
+  },
+  {
+   "id": "c3B",
+   "name": "3年B組",
+   "homerooms": [
+    "t8"
+   ]
+  },
+  {
+   "id": "c3C",
+   "name": "3年C組",
+   "homerooms": [
+    "t3"
+   ]
+  },
+  {
+   "id": "c3D",
+   "name": "3年D組",
+   "homerooms": [
+    "t30"
+   ]
+  },
+  {
+   "id": "c3E",
+   "name": "3年E組",
+   "homerooms": [
+    "t16"
+   ]
+  },
+  {
+   "id": "cmvg3wdb6p4lj",
+   "name": "特別支援1組",
+   "homerooms": [
+    "t33",
+    "t34"
+   ],
+   "special": true
+  }
+ ],
+ "teachers": [
+  {
+   "id": "t5",
+   "name": "柿家　悠一郎",
+   "unavail": [],
+   "grade": "1"
+  },
+  {
+   "id": "t19",
+   "name": "石垣　瑞穂",
+   "unavail": [],
+   "grade": "1"
+  },
+  {
+   "id": "t27",
+   "name": "石飛　典子",
+   "unavail": [],
+   "grade": "1"
+  },
+  {
+   "id": "t10",
+   "name": "髙橋　咲月",
+   "unavail": [
+    "2-3",
+    "2-4",
+    "2-5"
+   ],
+   "grade": "1"
+  },
+  {
+   "id": "t1",
+   "name": "馬場　真美",
+   "unavail": [],
+   "grade": "1"
+  },
+  {
+   "id": "t26",
+   "name": "谷口　友美",
+   "unavail": [],
+   "grade": "1"
+  },
+  {
+   "id": "t21",
+   "name": "西脇　司",
+   "unavail": [],
+   "grade": "1"
+  },
+  {
+   "id": "t9",
+   "name": "渡邉　貴志",
+   "unavail": [],
+   "grade": "1"
+  },
+  {
+   "id": "t13",
+   "name": "安井　理沙",
+   "unavail": [
+    "0-0",
+    "1-0",
+    "2-0",
+    "3-0",
+    "4-0"
+   ],
+   "grade": "1"
+  },
+  {
+   "id": "t18",
+   "name": "浅田　美紀",
+   "unavail": [],
+   "grade": "1"
+  },
+  {
+   "id": "t2",
+   "name": "大島　裕美子",
+   "unavail": [],
+   "grade": "2"
+  },
+  {
+   "id": "t6",
+   "name": "名倉　理王",
+   "unavail": [],
+   "grade": "2"
+  },
+  {
+   "id": "t25",
+   "name": "浅野　洋太",
+   "unavail": [],
+   "grade": "2"
+  },
+  {
+   "id": "t7",
+   "name": "酒井　美侑",
+   "unavail": [
+    "2-3",
+    "2-4",
+    "2-5"
+   ],
+   "grade": "2"
+  },
+  {
+   "id": "t14",
+   "name": "樽見　宗",
+   "unavail": [],
+   "grade": "2"
+  },
+  {
+   "id": "t11",
+   "name": "髙田　智大",
+   "unavail": [],
+   "grade": "2"
+  },
+  {
+   "id": "t22",
+   "name": "鈴木　雄詞",
+   "unavail": [],
+   "grade": "2"
+  },
+  {
+   "id": "t28",
+   "name": "藤井　優子",
+   "unavail": [],
+   "grade": "2"
+  },
+  {
+   "id": "t12",
+   "name": "城　智哉",
+   "unavail": [],
+   "grade": "3"
+  },
+  {
+   "id": "t8",
+   "name": "幸島　彩子",
+   "unavail": [],
+   "grade": "3"
+  },
+  {
+   "id": "t3",
+   "name": "菅田　拡",
+   "unavail": [],
+   "grade": "3"
+  },
+  {
+   "id": "t30",
+   "name": "仲野　園恵",
+   "unavail": [],
+   "grade": "3"
+  },
+  {
+   "id": "t16",
+   "name": "朝日　啓輔",
+   "unavail": [],
+   "grade": "3"
+  },
+  {
+   "id": "t15",
+   "name": "松田　香織",
+   "unavail": [],
+   "grade": "3"
+  },
+  {
+   "id": "t23",
+   "name": "山田　佳世子",
+   "unavail": [],
+   "grade": "3"
+  },
+  {
+   "id": "t29",
+   "name": "長谷川　俊雄",
+   "unavail": [],
+   "grade": "3"
+  },
+  {
+   "id": "t4",
+   "name": "丹羽　由佳",
+   "unavail": [
+    "2-0",
+    "2-1",
+    "2-2",
+    "2-3",
+    "2-4",
+    "2-5",
+    "0-0",
+    "1-0",
+    "3-0",
+    "4-0"
+   ],
+   "grade": "",
+   "part": true,
+   "partMax": 18
+  },
+  {
+   "id": "t17",
+   "name": "佐野　嘉昭",
+   "unavail": [],
+   "grade": ""
+  },
+  {
+   "id": "t20",
+   "name": "篠田　邦彦",
+   "unavail": [
+    "0-0",
+    "0-1",
+    "0-2",
+    "0-3",
+    "0-4",
+    "0-5",
+    "1-0",
+    "2-0",
+    "3-0",
+    "4-0"
+   ],
+   "grade": "",
+   "part": true,
+   "partMax": 12
+  },
+  {
+   "id": "t24",
+   "name": "長谷川　麻結",
+   "unavail": [
+    "1-0",
+    "0-0",
+    "2-0",
+    "3-0",
+    "4-0"
+   ],
+   "grade": "",
+   "part": true,
+   "partMax": 24
+  },
+  {
+   "id": "t31",
+   "name": "高橋　美紀",
+   "unavail": [
+    "0-0",
+    "1-0",
+    "2-0",
+    "3-0",
+    "4-0",
+    "0-1",
+    "0-3",
+    "0-2",
+    "0-4",
+    "0-5"
+   ],
+   "grade": "",
+   "part": true,
+   "partMax": 26
+  },
+  {
+   "id": "t32",
+   "name": "松村　奈津子",
+   "unavail": [],
+   "grade": "sp"
+  },
+  {
+   "id": "t33",
+   "name": "春日井　誠",
+   "unavail": [],
+   "grade": "sp"
+  },
+  {
+   "id": "t34",
+   "name": "野々村　一輝",
+   "unavail": [],
+   "grade": "sp"
+  },
+  {
+   "id": "tmvg7m3w5g5my",
+   "name": "AET1",
+   "unavail": [
+    "2-0",
+    "1-0",
+    "0-0",
+    "0-1",
+    "2-1",
+    "1-1",
+    "1-2",
+    "2-2",
+    "2-3",
+    "2-4",
+    "1-3",
+    "0-2",
+    "0-3",
+    "0-4",
+    "1-4",
+    "0-5",
+    "1-5",
+    "2-5"
+   ],
+   "grade": ""
+  },
+  {
+   "id": "tmvg7o1j00ckc",
+   "name": "AET2",
+   "unavail": [
+    "0-0",
+    "1-0",
+    "2-0",
+    "2-1",
+    "1-1",
+    "0-1",
+    "1-2",
+    "0-2",
+    "2-2",
+    "2-3",
+    "1-3",
+    "0-3",
+    "1-4",
+    "2-4",
+    "2-5",
+    "1-5",
+    "0-5",
+    "0-4"
+   ],
+   "grade": ""
+  }
+ ],
+ "rooms": [
+  {
+   "id": "r_gym",
+   "name": "体育館・グラウンド",
+   "cap": 2
+  },
+  {
+   "id": "r_sci",
+   "name": "理科室",
+   "cap": 3
+  },
+  {
+   "id": "r_mus",
+   "name": "音楽室",
+   "cap": 1
+  },
+  {
+   "id": "r_art",
+   "name": "美術室",
+   "cap": 1
+  },
+  {
+   "id": "r_tec",
+   "name": "技術室",
+   "cap": 1
+  },
+  {
+   "id": "r_home",
+   "name": "家庭科室",
+   "cap": 1
+  }
+ ],
+ "subjects": [
+  {
+   "id": "s1",
+   "name": "国語",
+   "short": "国",
+   "color": "#E8A0A0",
+   "room": "",
+   "len": 1,
+   "maxPerDay": 1
+  },
+  {
+   "id": "s2",
+   "name": "社会",
+   "short": "社",
+   "color": "#E6C27A",
+   "room": "",
+   "len": 1,
+   "maxPerDay": 1
+  },
+  {
+   "id": "s3",
+   "name": "数学",
+   "short": "数",
+   "color": "#8DB6E8",
+   "room": "",
+   "len": 1,
+   "maxPerDay": 1
+  },
+  {
+   "id": "s4",
+   "name": "理科",
+   "short": "理",
+   "color": "#9CD3A8",
+   "room": "r_sci",
+   "len": 1,
+   "maxPerDay": 1
+  },
+  {
+   "id": "s5",
+   "name": "英語",
+   "short": "英",
+   "color": "#C5A8E0",
+   "room": "",
+   "len": 1,
+   "maxPerDay": 1
+  },
+  {
+   "id": "s6",
+   "name": "音楽",
+   "short": "音",
+   "color": "#F0B8D8",
+   "room": "r_mus",
+   "len": 1,
+   "maxPerDay": 1
+  },
+  {
+   "id": "s7",
+   "name": "美術",
+   "short": "美",
+   "color": "#F2C9A0",
+   "room": "r_art",
+   "len": 1,
+   "maxPerDay": 1
+  },
+  {
+   "id": "s8",
+   "name": "音楽・美術（隔週）",
+   "short": "音美",
+   "color": "#EFC0BE",
+   "room": "",
+   "len": 1,
+   "maxPerDay": 1
+  },
+  {
+   "id": "s9",
+   "name": "保健体育",
+   "short": "体",
+   "color": "#A8D8D8",
+   "room": "r_gym",
+   "len": 1,
+   "maxPerDay": 1
+  },
+  {
+   "id": "s10",
+   "name": "技術",
+   "short": "技",
+   "color": "#C8C090",
+   "room": "r_tec",
+   "len": 1,
+   "maxPerDay": 1
+  },
+  {
+   "id": "s11",
+   "name": "家庭",
+   "short": "家",
+   "color": "#D9C8A0",
+   "room": "r_home",
+   "len": 1,
+   "maxPerDay": 1
+  },
+  {
+   "id": "s12",
+   "name": "技術・家庭（隔週）",
+   "short": "技家",
+   "color": "#CFC69A",
+   "room": "",
+   "len": 1,
+   "maxPerDay": 1
+  },
+  {
+   "id": "s13",
+   "name": "道徳",
+   "short": "道",
+   "color": "#D8D8D8",
+   "room": "",
+   "len": 1,
+   "maxPerDay": 1
+  },
+  {
+   "id": "s16",
+   "name": "特支（T1）",
+   "short": "特1",
+   "color": "#C9D6E3",
+   "room": "",
+   "len": 1,
+   "maxPerDay": 0,
+   "manual": false
+  },
+  {
+   "id": "s17",
+   "name": "特支（T2）",
+   "short": "特2",
+   "color": "#C9D6E3",
+   "room": "",
+   "len": 1,
+   "maxPerDay": 0,
+   "manual": false,
+   "assist": true
+  },
+  {
+   "id": "s18",
+   "name": "待機",
+   "short": "待",
+   "color": "#E4E4E4",
+   "room": "",
+   "len": 1,
+   "maxPerDay": 0,
+   "manual": true
+  },
+  {
+   "id": "s19",
+   "name": "居場所",
+   "short": "居",
+   "color": "#E4E4E4",
+   "room": "",
+   "len": 1,
+   "maxPerDay": 0,
+   "manual": true
+  },
+  {
+   "id": "s_meeting",
+   "name": "会議",
+   "short": "会",
+   "color": "#D6D0E6",
+   "room": "",
+   "len": 1,
+   "maxPerDay": 0,
+   "hidden": true
+  },
+  {
+   "id": "smvfy5mqyniap",
+   "name": "学活",
+   "short": "学",
+   "color": "#B0C4DE",
+   "room": "",
+   "len": 1,
+   "maxPerDay": 1
+  },
+  {
+   "id": "smvfy60i256uu",
+   "name": "総合",
+   "short": "総",
+   "color": "#B0C4DE",
+   "room": "",
+   "len": 1,
+   "maxPerDay": 1
+  },
+  {
+   "id": "s_shonin",
+   "name": "初任研",
+   "short": "初",
+   "color": "#FFFFFF",
+   "room": "",
+   "len": 1,
+   "maxPerDay": 0,
+   "hidden": true
+  }
+ ],
+ "lessons": [
+  {
+   "id": "l1",
+   "classes": [
+    "c1A"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t1"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l2",
+   "classes": [
+    "c1D"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t1"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l3",
+   "classes": [
+    "c1E"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t1"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l4",
+   "classes": [
+    "c1F"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t1"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l5",
+   "classes": [
+    "c1B"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t4"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l6",
+   "classes": [
+    "c1C"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t4"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l7",
+   "classes": [
+    "c2A"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t2"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l8",
+   "classes": [
+    "c2B"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t2"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l9",
+   "classes": [
+    "c2C"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t2"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l10",
+   "classes": [
+    "c2D"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t2"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l11",
+   "classes": [
+    "c2E"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t2"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l12",
+   "classes": [
+    "c2A"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t4"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l13",
+   "classes": [
+    "c2B"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t4"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l14",
+   "classes": [
+    "c2C"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t4"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l15",
+   "classes": [
+    "c2D"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t4"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l16",
+   "classes": [
+    "c2E"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t4"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l17",
+   "classes": [
+    "c3A"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t3"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l18",
+   "classes": [
+    "c3B"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t3"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l19",
+   "classes": [
+    "c3C"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t3"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l20",
+   "classes": [
+    "c3D"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t3"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l21",
+   "classes": [
+    "c3E"
+   ],
+   "subject": "s1",
+   "teachers": [
+    "t3"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l22",
+   "classes": [
+    "c1A"
+   ],
+   "subject": "s2",
+   "teachers": [
+    "t5"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l23",
+   "classes": [
+    "c1B"
+   ],
+   "subject": "s2",
+   "teachers": [
+    "t5"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l24",
+   "classes": [
+    "c1C"
+   ],
+   "subject": "s2",
+   "teachers": [
+    "t5"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l25",
+   "classes": [
+    "c1D"
+   ],
+   "subject": "s2",
+   "teachers": [
+    "t6"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l26",
+   "classes": [
+    "c1E"
+   ],
+   "subject": "s2",
+   "teachers": [
+    "t6"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l27",
+   "classes": [
+    "c1F"
+   ],
+   "subject": "s2",
+   "teachers": [
+    "t6"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l28",
+   "classes": [
+    "c2A"
+   ],
+   "subject": "s2",
+   "teachers": [
+    "t6"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l29",
+   "classes": [
+    "c2B"
+   ],
+   "subject": "s2",
+   "teachers": [
+    "t6"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l30",
+   "classes": [
+    "c2C"
+   ],
+   "subject": "s2",
+   "teachers": [
+    "t7"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l31",
+   "classes": [
+    "c2D"
+   ],
+   "subject": "s2",
+   "teachers": [
+    "t7"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l32",
+   "classes": [
+    "c2E"
+   ],
+   "subject": "s2",
+   "teachers": [
+    "t7"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l33",
+   "classes": [
+    "c3A"
+   ],
+   "subject": "s2",
+   "teachers": [
+    "t5"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l34",
+   "classes": [
+    "c3B"
+   ],
+   "subject": "s2",
+   "teachers": [
+    "t8"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l35",
+   "classes": [
+    "c3C"
+   ],
+   "subject": "s2",
+   "teachers": [
+    "t8"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l36",
+   "classes": [
+    "c3D"
+   ],
+   "subject": "s2",
+   "teachers": [
+    "t8"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l37",
+   "classes": [
+    "c3E"
+   ],
+   "subject": "s2",
+   "teachers": [
+    "t8"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l38",
+   "classes": [
+    "c1B"
+   ],
+   "subject": "s3",
+   "teachers": [
+    "t9"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l39",
+   "classes": [
+    "c1D"
+   ],
+   "subject": "s3",
+   "teachers": [
+    "t9"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l40",
+   "classes": [
+    "c1F"
+   ],
+   "subject": "s3",
+   "teachers": [
+    "t9"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l41",
+   "classes": [
+    "c1A"
+   ],
+   "subject": "s3",
+   "teachers": [
+    "t10"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l42",
+   "classes": [
+    "c1C"
+   ],
+   "subject": "s3",
+   "teachers": [
+    "t10"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l43",
+   "classes": [
+    "c1E"
+   ],
+   "subject": "s3",
+   "teachers": [
+    "t10"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l44",
+   "classes": [
+    "c2A"
+   ],
+   "subject": "s3",
+   "teachers": [
+    "t11"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l45",
+   "classes": [
+    "c2B"
+   ],
+   "subject": "s3",
+   "teachers": [
+    "t11"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l46",
+   "classes": [
+    "c2C"
+   ],
+   "subject": "s3",
+   "teachers": [
+    "t11"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l47",
+   "classes": [
+    "c2D"
+   ],
+   "subject": "s3",
+   "teachers": [
+    "t11"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l48",
+   "classes": [
+    "c2E"
+   ],
+   "subject": "s3",
+   "teachers": [
+    "t11"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l49",
+   "classes": [
+    "c3A"
+   ],
+   "subject": "s3",
+   "teachers": [
+    "t12"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l50",
+   "classes": [
+    "c3C"
+   ],
+   "subject": "s3",
+   "teachers": [
+    "t12"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l51",
+   "classes": [
+    "c3D"
+   ],
+   "subject": "s3",
+   "teachers": [
+    "t12"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l52",
+   "classes": [
+    "c3E"
+   ],
+   "subject": "s3",
+   "teachers": [
+    "t12"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l53",
+   "classes": [
+    "c3B"
+   ],
+   "subject": "s3",
+   "teachers": [
+    "t9"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l54",
+   "classes": [
+    "c1A"
+   ],
+   "subject": "s4",
+   "teachers": [
+    "t13"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l55",
+   "classes": [
+    "c1B"
+   ],
+   "subject": "s4",
+   "teachers": [
+    "t13"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l56",
+   "classes": [
+    "c1D"
+   ],
+   "subject": "s4",
+   "teachers": [
+    "t13"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l57",
+   "classes": [
+    "c1E"
+   ],
+   "subject": "s4",
+   "teachers": [
+    "t13"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l58",
+   "classes": [
+    "c1F"
+   ],
+   "subject": "s4",
+   "teachers": [
+    "t13"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l59",
+   "classes": [
+    "c1C"
+   ],
+   "subject": "s4",
+   "teachers": [
+    "t17"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l60",
+   "classes": [
+    "c2A"
+   ],
+   "subject": "s4",
+   "teachers": [
+    "t16"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l61",
+   "classes": [
+    "c2B"
+   ],
+   "subject": "s4",
+   "teachers": [
+    "t14"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l62",
+   "classes": [
+    "c2C"
+   ],
+   "subject": "s4",
+   "teachers": [
+    "t14"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l63",
+   "classes": [
+    "c2D"
+   ],
+   "subject": "s4",
+   "teachers": [
+    "t14"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l64",
+   "classes": [
+    "c2E"
+   ],
+   "subject": "s4",
+   "teachers": [
+    "t14"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l65",
+   "classes": [
+    "c3A"
+   ],
+   "subject": "s4",
+   "teachers": [
+    "t15"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l66",
+   "classes": [
+    "c3D"
+   ],
+   "subject": "s4",
+   "teachers": [
+    "t15"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l67",
+   "classes": [
+    "c3B"
+   ],
+   "subject": "s4",
+   "teachers": [
+    "t16"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l68",
+   "classes": [
+    "c3C"
+   ],
+   "subject": "s4",
+   "teachers": [
+    "t16"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l69",
+   "classes": [
+    "c3E"
+   ],
+   "subject": "s4",
+   "teachers": [
+    "t16"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l70",
+   "classes": [
+    "c1B"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t27"
+   ],
+   "hours": 2,
+   "pins": []
+  },
+  {
+   "id": "l71",
+   "classes": [
+    "c1B"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t27",
+    "t31"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l72",
+   "classes": [
+    "c1C"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t27"
+   ],
+   "hours": 2,
+   "pins": []
+  },
+  {
+   "id": "l73",
+   "classes": [
+    "c1C"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t27",
+    "t31"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l74",
+   "classes": [
+    "c1F"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t27"
+   ],
+   "hours": 2,
+   "pins": []
+  },
+  {
+   "id": "l75",
+   "classes": [
+    "c1F"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t27",
+    "t31"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l76",
+   "classes": [
+    "c1A"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t31"
+   ],
+   "hours": 2,
+   "pins": []
+  },
+  {
+   "id": "l77",
+   "classes": [
+    "c1A"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t31",
+    "t27"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l78",
+   "classes": [
+    "c1D"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t31"
+   ],
+   "hours": 2,
+   "pins": []
+  },
+  {
+   "id": "l79",
+   "classes": [
+    "c1D"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t31",
+    "t27"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l80",
+   "classes": [
+    "c1E"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t31"
+   ],
+   "hours": 2,
+   "pins": []
+  },
+  {
+   "id": "l81",
+   "classes": [
+    "c1E"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t31",
+    "t27"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l82",
+   "classes": [
+    "c2A"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t28"
+   ],
+   "hours": 2,
+   "pins": []
+  },
+  {
+   "id": "l83",
+   "classes": [
+    "c2B"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t28"
+   ],
+   "hours": 2,
+   "pins": []
+  },
+  {
+   "id": "l84",
+   "classes": [
+    "c2C"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t28"
+   ],
+   "hours": 2,
+   "pins": []
+  },
+  {
+   "id": "l85",
+   "classes": [
+    "c2D"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t28"
+   ],
+   "hours": 2,
+   "pins": []
+  },
+  {
+   "id": "l86",
+   "classes": [
+    "c2E"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t28"
+   ],
+   "hours": 2,
+   "pins": []
+  },
+  {
+   "id": "l87",
+   "classes": [
+    "c2A"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t29"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l88",
+   "classes": [
+    "c2B"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t29"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l89",
+   "classes": [
+    "c2C"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t29"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l90",
+   "classes": [
+    "c2D"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t29"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l91",
+   "classes": [
+    "c2E"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t29"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l92",
+   "classes": [
+    "c3C"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t29"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l93",
+   "classes": [
+    "c3E"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t29"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l94",
+   "classes": [
+    "c3A"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t30"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l95",
+   "classes": [
+    "c3B"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t30"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l96",
+   "classes": [
+    "c3D"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t30"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l97",
+   "classes": [
+    "c1A"
+   ],
+   "subject": "s6",
+   "teachers": [
+    "t18"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l98",
+   "classes": [
+    "c1B"
+   ],
+   "subject": "s6",
+   "teachers": [
+    "t18"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l99",
+   "classes": [
+    "c1C"
+   ],
+   "subject": "s6",
+   "teachers": [
+    "t18"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l100",
+   "classes": [
+    "c1D"
+   ],
+   "subject": "s6",
+   "teachers": [
+    "t18"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l101",
+   "classes": [
+    "c1E"
+   ],
+   "subject": "s6",
+   "teachers": [
+    "t18"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l102",
+   "classes": [
+    "c1F"
+   ],
+   "subject": "s6",
+   "teachers": [
+    "t18"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l103",
+   "classes": [
+    "c1A"
+   ],
+   "subject": "s7",
+   "teachers": [
+    "t19"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l104",
+   "classes": [
+    "c1B"
+   ],
+   "subject": "s7",
+   "teachers": [
+    "t19"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l105",
+   "classes": [
+    "c1C"
+   ],
+   "subject": "s7",
+   "teachers": [
+    "t19"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l106",
+   "classes": [
+    "c1D"
+   ],
+   "subject": "s7",
+   "teachers": [
+    "t19"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l107",
+   "classes": [
+    "c1E"
+   ],
+   "subject": "s7",
+   "teachers": [
+    "t19"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l108",
+   "classes": [
+    "c1F"
+   ],
+   "subject": "s7",
+   "teachers": [
+    "t19"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l109",
+   "classes": [
+    "c1A",
+    "c1B"
+   ],
+   "subject": "s8",
+   "teachers": [
+    "t18",
+    "t19"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l110",
+   "classes": [
+    "c1C",
+    "c1D"
+   ],
+   "subject": "s8",
+   "teachers": [
+    "t18",
+    "t19"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l111",
+   "classes": [
+    "c1E",
+    "c1F"
+   ],
+   "subject": "s8",
+   "teachers": [
+    "t18",
+    "t19"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l112",
+   "classes": [
+    "c2A"
+   ],
+   "subject": "s6",
+   "teachers": [
+    "t18"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l113",
+   "classes": [
+    "c2B"
+   ],
+   "subject": "s6",
+   "teachers": [
+    "t18"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l114",
+   "classes": [
+    "c2C"
+   ],
+   "subject": "s6",
+   "teachers": [
+    "t18"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l115",
+   "classes": [
+    "c2D"
+   ],
+   "subject": "s6",
+   "teachers": [
+    "t18"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l116",
+   "classes": [
+    "c2E"
+   ],
+   "subject": "s6",
+   "teachers": [
+    "t18"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l117",
+   "classes": [
+    "c2A"
+   ],
+   "subject": "s7",
+   "teachers": [
+    "t20"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l118",
+   "classes": [
+    "c2B"
+   ],
+   "subject": "s7",
+   "teachers": [
+    "t20"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l119",
+   "classes": [
+    "c2C"
+   ],
+   "subject": "s7",
+   "teachers": [
+    "t20"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l120",
+   "classes": [
+    "c2D"
+   ],
+   "subject": "s7",
+   "teachers": [
+    "t20"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l121",
+   "classes": [
+    "c2E"
+   ],
+   "subject": "s7",
+   "teachers": [
+    "t20"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l122",
+   "classes": [
+    "c3A"
+   ],
+   "subject": "s6",
+   "teachers": [
+    "t18"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l123",
+   "classes": [
+    "c3B"
+   ],
+   "subject": "s6",
+   "teachers": [
+    "t18"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l124",
+   "classes": [
+    "c3C"
+   ],
+   "subject": "s6",
+   "teachers": [
+    "t18"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l125",
+   "classes": [
+    "c3D"
+   ],
+   "subject": "s6",
+   "teachers": [
+    "t18"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l126",
+   "classes": [
+    "c3E"
+   ],
+   "subject": "s6",
+   "teachers": [
+    "t18"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l127",
+   "classes": [
+    "c3A"
+   ],
+   "subject": "s7",
+   "teachers": [
+    "t19"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l128",
+   "classes": [
+    "c3B"
+   ],
+   "subject": "s7",
+   "teachers": [
+    "t19"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l129",
+   "classes": [
+    "c3C"
+   ],
+   "subject": "s7",
+   "teachers": [
+    "t19"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l130",
+   "classes": [
+    "c3D"
+   ],
+   "subject": "s7",
+   "teachers": [
+    "t19"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l131",
+   "classes": [
+    "c3E"
+   ],
+   "subject": "s7",
+   "teachers": [
+    "t19"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l132",
+   "classes": [
+    "c1A",
+    "c1B"
+   ],
+   "subject": "s9",
+   "teachers": [
+    "t21",
+    "t24"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l133",
+   "classes": [
+    "c1C",
+    "c1D"
+   ],
+   "subject": "s9",
+   "teachers": [
+    "t21",
+    "t24"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l134",
+   "classes": [
+    "c1E",
+    "c1F"
+   ],
+   "subject": "s9",
+   "teachers": [
+    "t21",
+    "t24"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l135",
+   "classes": [
+    "c2A",
+    "c2B"
+   ],
+   "subject": "s9",
+   "teachers": [
+    "t22",
+    "t23"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l136",
+   "classes": [
+    "c2C"
+   ],
+   "subject": "s9",
+   "teachers": [
+    "t22",
+    "t24"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l137",
+   "classes": [
+    "c2D",
+    "c2E"
+   ],
+   "subject": "s9",
+   "teachers": [
+    "t22",
+    "t24"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l138",
+   "classes": [
+    "c3A"
+   ],
+   "subject": "s9",
+   "teachers": [
+    "t21",
+    "t23"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l139",
+   "classes": [
+    "c3B",
+    "c3C"
+   ],
+   "subject": "s9",
+   "teachers": [
+    "t22",
+    "t23"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l140",
+   "classes": [
+    "c3D",
+    "c3E"
+   ],
+   "subject": "s9",
+   "teachers": [
+    "t21",
+    "t23"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l141",
+   "classes": [
+    "c1A"
+   ],
+   "subject": "s10",
+   "teachers": [
+    "t25"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l142",
+   "classes": [
+    "c1B"
+   ],
+   "subject": "s10",
+   "teachers": [
+    "t25"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l143",
+   "classes": [
+    "c1C"
+   ],
+   "subject": "s10",
+   "teachers": [
+    "t25"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l144",
+   "classes": [
+    "c1D"
+   ],
+   "subject": "s10",
+   "teachers": [
+    "t25"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l145",
+   "classes": [
+    "c1E"
+   ],
+   "subject": "s10",
+   "teachers": [
+    "t25"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l146",
+   "classes": [
+    "c1F"
+   ],
+   "subject": "s10",
+   "teachers": [
+    "t25"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l147",
+   "classes": [
+    "c1A"
+   ],
+   "subject": "s11",
+   "teachers": [
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l148",
+   "classes": [
+    "c1B"
+   ],
+   "subject": "s11",
+   "teachers": [
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l149",
+   "classes": [
+    "c1C"
+   ],
+   "subject": "s11",
+   "teachers": [
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l150",
+   "classes": [
+    "c1D"
+   ],
+   "subject": "s11",
+   "teachers": [
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l151",
+   "classes": [
+    "c1E"
+   ],
+   "subject": "s11",
+   "teachers": [
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l152",
+   "classes": [
+    "c1F"
+   ],
+   "subject": "s11",
+   "teachers": [
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l153",
+   "classes": [
+    "c2A"
+   ],
+   "subject": "s10",
+   "teachers": [
+    "t25"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l154",
+   "classes": [
+    "c2B"
+   ],
+   "subject": "s10",
+   "teachers": [
+    "t25"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l155",
+   "classes": [
+    "c2C"
+   ],
+   "subject": "s10",
+   "teachers": [
+    "t25"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l156",
+   "classes": [
+    "c2D"
+   ],
+   "subject": "s10",
+   "teachers": [
+    "t25"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l157",
+   "classes": [
+    "c2E"
+   ],
+   "subject": "s10",
+   "teachers": [
+    "t25"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l158",
+   "classes": [
+    "c2A"
+   ],
+   "subject": "s11",
+   "teachers": [
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l159",
+   "classes": [
+    "c2B"
+   ],
+   "subject": "s11",
+   "teachers": [
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l160",
+   "classes": [
+    "c2C"
+   ],
+   "subject": "s11",
+   "teachers": [
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l161",
+   "classes": [
+    "c2D"
+   ],
+   "subject": "s11",
+   "teachers": [
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l162",
+   "classes": [
+    "c2E"
+   ],
+   "subject": "s11",
+   "teachers": [
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l163",
+   "classes": [
+    "c3A",
+    "c3B"
+   ],
+   "subject": "s12",
+   "teachers": [
+    "t25",
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l164",
+   "classes": [
+    "c3C",
+    "c3D"
+   ],
+   "subject": "s12",
+   "teachers": [
+    "t25",
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l165",
+   "classes": [
+    "c3E"
+   ],
+   "subject": "s12",
+   "teachers": [
+    "t25",
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l188",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "s16",
+   "teachers": [
+    "t1"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l189",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "s16",
+   "teachers": [
+    "t2"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l190",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "s16",
+   "teachers": [
+    "t7"
+   ],
+   "hours": 2,
+   "pins": []
+  },
+  {
+   "id": "l191",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "s16",
+   "teachers": [
+    "t10"
+   ],
+   "hours": 2,
+   "pins": []
+  },
+  {
+   "id": "l192",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "s16",
+   "teachers": [
+    "t15"
+   ],
+   "hours": 2,
+   "pins": []
+  },
+  {
+   "id": "l193",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "s16",
+   "teachers": [
+    "t24"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l194",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "s16",
+   "teachers": [
+    "t25"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l195",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "s16",
+   "teachers": [
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l196",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "s16",
+   "teachers": [
+    "t30"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l197",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "s16",
+   "teachers": [
+    "t31"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l198",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "s17",
+   "teachers": [
+    "t11"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l199",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "s17",
+   "teachers": [
+    "t17"
+   ],
+   "hours": 5,
+   "pins": []
+  },
+  {
+   "id": "l200",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "s17",
+   "teachers": [
+    "t23"
+   ],
+   "hours": 2,
+   "pins": []
+  },
+  {
+   "id": "l201",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "s17",
+   "teachers": [
+    "t24"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l202",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "s17",
+   "teachers": [
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l203",
+   "classes": [],
+   "subject": "s18",
+   "teachers": [
+    "t5"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l204",
+   "classes": [],
+   "subject": "s18",
+   "teachers": [
+    "t6"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l205",
+   "classes": [],
+   "subject": "s18",
+   "teachers": [
+    "t7"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l206",
+   "classes": [],
+   "subject": "s18",
+   "teachers": [
+    "t15"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l207",
+   "classes": [],
+   "subject": "s18",
+   "teachers": [
+    "t17"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l208",
+   "classes": [],
+   "subject": "s18",
+   "teachers": [
+    "t19"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l209",
+   "classes": [],
+   "subject": "s18",
+   "teachers": [
+    "t21"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l210",
+   "classes": [],
+   "subject": "s18",
+   "teachers": [
+    "t22"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l211",
+   "classes": [],
+   "subject": "s18",
+   "teachers": [
+    "t23"
+   ],
+   "hours": 2,
+   "pins": []
+  },
+  {
+   "id": "l212",
+   "classes": [],
+   "subject": "s18",
+   "teachers": [
+    "t25"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l213",
+   "classes": [],
+   "subject": "s18",
+   "teachers": [
+    "t26"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "l214",
+   "classes": [],
+   "subject": "s18",
+   "teachers": [
+    "t29"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l215",
+   "classes": [],
+   "subject": "s18",
+   "teachers": [
+    "t30"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l216",
+   "classes": [],
+   "subject": "s19",
+   "teachers": [
+    "t20"
+   ],
+   "hours": 4,
+   "pins": []
+  },
+  {
+   "id": "l217",
+   "classes": [],
+   "subject": "s19",
+   "teachers": [
+    "t31"
+   ],
+   "hours": 3,
+   "pins": []
+  },
+  {
+   "id": "l218",
+   "classes": [],
+   "subject": "s_meeting",
+   "teachers": [
+    "t5",
+    "t9",
+    "t15",
+    "t17",
+    "t22",
+    "t27",
+    "t28",
+    "t32"
+   ],
+   "hours": 1,
+   "pins": [
+    "0-2"
+   ],
+   "name": "主任会",
+   "meeting": true
+  },
+  {
+   "id": "l219",
+   "classes": [],
+   "subject": "s_meeting",
+   "teachers": [
+    "t3",
+    "t5",
+    "t17",
+    "t21",
+    "t28",
+    "t34"
+   ],
+   "hours": 1,
+   "pins": [
+    "3-2"
+   ],
+   "name": "生徒指導部会",
+   "meeting": true
+  },
+  {
+   "id": "lmvg7p2ttriuh",
+   "classes": [
+    "c1B"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t27",
+    "tmvg7m3w5g5my"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "lmvg7p2ttpu1i",
+   "classes": [
+    "c1C"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t27",
+    "tmvg7m3w5g5my"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "lmvg7p2ttv2tn",
+   "classes": [
+    "c1F"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t27",
+    "tmvg7m3w5g5my"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "lmvg7p2ttmvvr",
+   "classes": [
+    "c2A"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t28",
+    "tmvg7m3w5g5my"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "lmvg7p2ttlms4",
+   "classes": [
+    "c2B"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t28",
+    "tmvg7m3w5g5my"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "lmvg7p2ttnibw",
+   "classes": [
+    "c2C"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t28",
+    "tmvg7m3w5g5my"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "lmvg7p2tth4km",
+   "classes": [
+    "c2D"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t28",
+    "tmvg7m3w5g5my"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "lmvg7p2tt8nn7",
+   "classes": [
+    "c2E"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t28",
+    "tmvg7m3w5g5my"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "lmvg7pk6moho9",
+   "classes": [
+    "c1A"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t31",
+    "tmvg7o1j00ckc"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "lmvg7pk6myfzx",
+   "classes": [
+    "c1D"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t31",
+    "tmvg7o1j00ckc"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "lmvg7pk6mcyjc",
+   "classes": [
+    "c1E"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t31",
+    "tmvg7o1j00ckc"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "lmvg7pk6m3agb",
+   "classes": [
+    "c3A"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t30",
+    "tmvg7o1j00ckc"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "lmvg7pk6mvoc8",
+   "classes": [
+    "c3B"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t30",
+    "tmvg7o1j00ckc"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "lmvg7pk6mi86r",
+   "classes": [
+    "c3C"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t29",
+    "tmvg7o1j00ckc"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "lmvg7pk6mcjcq",
+   "classes": [
+    "c3D"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t30",
+    "tmvg7o1j00ckc"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "lmvg7pk6mxqpg",
+   "classes": [
+    "c3E"
+   ],
+   "subject": "s5",
+   "teachers": [
+    "t29",
+    "tmvg7o1j00ckc"
+   ],
+   "hours": 1,
+   "pins": []
+  },
+  {
+   "id": "auto_fmvfxkw2bqwx7_g1",
+   "auto": "fmvfxkw2bqwx7",
+   "classes": [
+    "c1A",
+    "c1B",
+    "c1C",
+    "c1D",
+    "c1E",
+    "c1F"
+   ],
+   "subject": "s13",
+   "teachers": [
+    "t5",
+    "t19",
+    "t27",
+    "t10",
+    "t1",
+    "t26",
+    "t21",
+    "t9",
+    "t13",
+    "t18"
+   ],
+   "hours": 1,
+   "pins": [
+    "0-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxkw2bqwx7_g2",
+   "auto": "fmvfxkw2bqwx7",
+   "classes": [
+    "c2A",
+    "c2B",
+    "c2C",
+    "c2D",
+    "c2E"
+   ],
+   "subject": "s13",
+   "teachers": [
+    "t2",
+    "t6",
+    "t25",
+    "t7",
+    "t14",
+    "t11",
+    "t22",
+    "t28"
+   ],
+   "hours": 1,
+   "pins": [
+    "0-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxkw2bqwx7_g3",
+   "auto": "fmvfxkw2bqwx7",
+   "classes": [
+    "c3A",
+    "c3B",
+    "c3C",
+    "c3D",
+    "c3E"
+   ],
+   "subject": "s13",
+   "teachers": [
+    "t12",
+    "t8",
+    "t3",
+    "t30",
+    "t16",
+    "t15",
+    "t23",
+    "t29"
+   ],
+   "hours": 1,
+   "pins": [
+    "0-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxkw2bqwx7_gsp",
+   "auto": "fmvfxkw2bqwx7",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "s13",
+   "teachers": [
+    "t32",
+    "t33",
+    "t34"
+   ],
+   "hours": 1,
+   "pins": [
+    "0-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxleu0simq_g1",
+   "auto": "fmvfxleu0simq",
+   "classes": [
+    "c1A",
+    "c1B",
+    "c1C",
+    "c1D",
+    "c1E",
+    "c1F"
+   ],
+   "subject": "smvfy60i256uu",
+   "teachers": [
+    "t5",
+    "t19",
+    "t27",
+    "t10",
+    "t1",
+    "t26",
+    "t21",
+    "t9",
+    "t13",
+    "t18"
+   ],
+   "hours": 1,
+   "pins": [
+    "4-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxleu0simq_g2",
+   "auto": "fmvfxleu0simq",
+   "classes": [
+    "c2A",
+    "c2B",
+    "c2C",
+    "c2D",
+    "c2E"
+   ],
+   "subject": "smvfy60i256uu",
+   "teachers": [
+    "t2",
+    "t6",
+    "t25",
+    "t7",
+    "t14",
+    "t11",
+    "t22",
+    "t28"
+   ],
+   "hours": 1,
+   "pins": [
+    "4-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxleu0simq_g3",
+   "auto": "fmvfxleu0simq",
+   "classes": [
+    "c3A",
+    "c3B",
+    "c3C",
+    "c3D",
+    "c3E"
+   ],
+   "subject": "smvfy60i256uu",
+   "teachers": [
+    "t12",
+    "t8",
+    "t3",
+    "t30",
+    "t16",
+    "t15",
+    "t23",
+    "t29"
+   ],
+   "hours": 1,
+   "pins": [
+    "4-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxleu0simq_gsp",
+   "auto": "fmvfxleu0simq",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "smvfy60i256uu",
+   "teachers": [
+    "t32",
+    "t33",
+    "t34"
+   ],
+   "hours": 1,
+   "pins": [
+    "4-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxopn8vugz_g2",
+   "auto": "fmvfxopn8vugz",
+   "classes": [
+    "c2A",
+    "c2B",
+    "c2C",
+    "c2D",
+    "c2E"
+   ],
+   "subject": "smvfy60i256uu",
+   "teachers": [
+    "t2",
+    "t6",
+    "t25",
+    "t7",
+    "t14",
+    "t11",
+    "t22",
+    "t28"
+   ],
+   "hours": 1,
+   "pins": [
+    "1-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxopn8vugz_g3",
+   "auto": "fmvfxopn8vugz",
+   "classes": [
+    "c3A",
+    "c3B",
+    "c3C",
+    "c3D",
+    "c3E"
+   ],
+   "subject": "smvfy60i256uu",
+   "teachers": [
+    "t12",
+    "t8",
+    "t3",
+    "t30",
+    "t16",
+    "t15",
+    "t23",
+    "t29"
+   ],
+   "hours": 1,
+   "pins": [
+    "1-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxopn8vugz_gsp",
+   "auto": "fmvfxopn8vugz",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "smvfy60i256uu",
+   "teachers": [
+    "t32",
+    "t33",
+    "t34"
+   ],
+   "hours": 1,
+   "pins": [
+    "1-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_c1A",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "c1A"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t5"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_c1B",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "c1B"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t19"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_c1C",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "c1C"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t27"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_c1D",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "c1D"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t1"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_c1E",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "c1E"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t26"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_c1F",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "c1F"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t21"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_c2A",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "c2A"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t2"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_c2B",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "c2B"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t6"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_c2C",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "c2C"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t25"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_c2D",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "c2D"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t14"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_c2E",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "c2E"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t11"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_c3A",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "c3A"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t12"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_c3B",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "c3B"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t8"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_c3C",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "c3C"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t3"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_c3D",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "c3D"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t30"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_c3E",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "c3E"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t16"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_fmvfxpaqn3081_cmvg3wdb6p4lj",
+   "auto": "fmvfxpaqn3081",
+   "classes": [
+    "cmvg3wdb6p4lj"
+   ],
+   "subject": "smvfy5mqyniap",
+   "teachers": [
+    "t33",
+    "t34"
+   ],
+   "hours": 1,
+   "pins": [
+    "2-5"
+   ]
+  },
+  {
+   "id": "auto_shonin_shmvgbmlz5w94v_n",
+   "auto": "shonin",
+   "classes": [],
+   "subject": "s_shonin",
+   "teachers": [
+    "t10"
+   ],
+   "hours": 2,
+   "pins": [
+    "4-2",
+    "4-3"
+   ]
+  },
+  {
+   "id": "auto_shonin_shmvgbmlz5w94v_m",
+   "auto": "shonin",
+   "classes": [],
+   "subject": "s_shonin",
+   "teachers": [
+    "t9"
+   ],
+   "hours": 2,
+   "pins": [
+    "4-1",
+    "4-3"
+   ]
+  },
+  {
+   "id": "auto_shonin_shmvgbn5f281cf_n",
+   "auto": "shonin",
+   "classes": [],
+   "subject": "s_shonin",
+   "teachers": [
+    "t7"
+   ],
+   "hours": 2,
+   "pins": [
+    "1-2",
+    "1-3"
+   ]
+  }
+ ],
+ "result": {
+  "sig": "-1465549347",
+  "at": 1792479730597,
+  "items": [
+   {
+    "lessonId": "l1",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "l1",
+    "len": 1,
+    "s": 2
+   },
+   {
+    "lessonId": "l1",
+    "len": 1,
+    "s": 20
+   },
+   {
+    "lessonId": "l1",
+    "len": 1,
+    "s": 12
+   },
+   {
+    "lessonId": "l2",
+    "len": 1,
+    "s": 13
+   },
+   {
+    "lessonId": "l2",
+    "len": 1,
+    "s": 26
+   },
+   {
+    "lessonId": "l2",
+    "len": 1,
+    "s": 19
+   },
+   {
+    "lessonId": "l2",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "l3",
+    "len": 1,
+    "s": 10
+   },
+   {
+    "lessonId": "l3",
+    "len": 1,
+    "s": 22
+   },
+   {
+    "lessonId": "l3",
+    "len": 1,
+    "s": 0
+   },
+   {
+    "lessonId": "l3",
+    "len": 1,
+    "s": 15
+   },
+   {
+    "lessonId": "l4",
+    "len": 1,
+    "s": 28
+   },
+   {
+    "lessonId": "l4",
+    "len": 1,
+    "s": 6
+   },
+   {
+    "lessonId": "l4",
+    "len": 1,
+    "s": 21
+   },
+   {
+    "lessonId": "l4",
+    "len": 1,
+    "s": 3
+   },
+   {
+    "lessonId": "l5",
+    "len": 1,
+    "s": 20
+   },
+   {
+    "lessonId": "l5",
+    "len": 1,
+    "s": 9
+   },
+   {
+    "lessonId": "l5",
+    "len": 1,
+    "s": 2
+   },
+   {
+    "lessonId": "l5",
+    "len": 1,
+    "s": 25
+   },
+   {
+    "lessonId": "l6",
+    "len": 1,
+    "s": 26
+   },
+   {
+    "lessonId": "l6",
+    "len": 1,
+    "s": 10
+   },
+   {
+    "lessonId": "l6",
+    "len": 1,
+    "s": 3
+   },
+   {
+    "lessonId": "l6",
+    "len": 1,
+    "s": 21
+   },
+   {
+    "lessonId": "l7",
+    "len": 1,
+    "s": 28
+   },
+   {
+    "lessonId": "l7",
+    "len": 1,
+    "s": 20
+   },
+   {
+    "lessonId": "l7",
+    "len": 1,
+    "s": 16
+   },
+   {
+    "lessonId": "l8",
+    "len": 1,
+    "s": 26
+   },
+   {
+    "lessonId": "l8",
+    "len": 1,
+    "s": 19
+   },
+   {
+    "lessonId": "l8",
+    "len": 1,
+    "s": 15
+   },
+   {
+    "lessonId": "l9",
+    "len": 1,
+    "s": 2
+   },
+   {
+    "lessonId": "l9",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "l9",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "l10",
+    "len": 1,
+    "s": 25
+   },
+   {
+    "lessonId": "l10",
+    "len": 1,
+    "s": 7
+   },
+   {
+    "lessonId": "l10",
+    "len": 1,
+    "s": 1
+   },
+   {
+    "lessonId": "l11",
+    "len": 1,
+    "s": 10
+   },
+   {
+    "lessonId": "l11",
+    "len": 1,
+    "s": 21
+   },
+   {
+    "lessonId": "l11",
+    "len": 1,
+    "s": 0
+   },
+   {
+    "lessonId": "l12",
+    "len": 1,
+    "s": 7
+   },
+   {
+    "lessonId": "l13",
+    "len": 1,
+    "s": 1
+   },
+   {
+    "lessonId": "l14",
+    "len": 1,
+    "s": 22
+   },
+   {
+    "lessonId": "l15",
+    "len": 1,
+    "s": 19
+   },
+   {
+    "lessonId": "l16",
+    "len": 1,
+    "s": 27,
+    "lock": 1
+   },
+   {
+    "lessonId": "l17",
+    "len": 1,
+    "s": 1
+   },
+   {
+    "lessonId": "l17",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "l17",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "l18",
+    "len": 1,
+    "s": 15
+   },
+   {
+    "lessonId": "l18",
+    "len": 1,
+    "s": 26
+   },
+   {
+    "lessonId": "l18",
+    "len": 1,
+    "s": 7
+   },
+   {
+    "lessonId": "l19",
+    "len": 1,
+    "s": 14
+   },
+   {
+    "lessonId": "l19",
+    "len": 1,
+    "s": 10
+   },
+   {
+    "lessonId": "l19",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "l20",
+    "len": 1,
+    "s": 18
+   },
+   {
+    "lessonId": "l20",
+    "len": 1,
+    "s": 3
+   },
+   {
+    "lessonId": "l20",
+    "len": 1,
+    "s": 16
+   },
+   {
+    "lessonId": "l21",
+    "len": 1,
+    "s": 28
+   },
+   {
+    "lessonId": "l21",
+    "len": 1,
+    "s": 2
+   },
+   {
+    "lessonId": "l21",
+    "len": 1,
+    "s": 9
+   },
+   {
+    "lessonId": "l22",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "l22",
+    "len": 1,
+    "s": 9
+   },
+   {
+    "lessonId": "l22",
+    "len": 1,
+    "s": 13
+   },
+   {
+    "lessonId": "l23",
+    "len": 1,
+    "s": 11
+   },
+   {
+    "lessonId": "l23",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "l23",
+    "len": 1,
+    "s": 12
+   },
+   {
+    "lessonId": "l24",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "l24",
+    "len": 1,
+    "s": 4
+   },
+   {
+    "lessonId": "l24",
+    "len": 1,
+    "s": 19
+   },
+   {
+    "lessonId": "l25",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "l25",
+    "len": 1,
+    "s": 2
+   },
+   {
+    "lessonId": "l25",
+    "len": 1,
+    "s": 7
+   },
+   {
+    "lessonId": "l26",
+    "len": 1,
+    "s": 6
+   },
+   {
+    "lessonId": "l26",
+    "len": 1,
+    "s": 1
+   },
+   {
+    "lessonId": "l26",
+    "len": 1,
+    "s": 28
+   },
+   {
+    "lessonId": "l27",
+    "len": 1,
+    "s": 9
+   },
+   {
+    "lessonId": "l27",
+    "len": 1,
+    "s": 0
+   },
+   {
+    "lessonId": "l27",
+    "len": 1,
+    "s": 15
+   },
+   {
+    "lessonId": "l28",
+    "len": 1,
+    "s": 25
+   },
+   {
+    "lessonId": "l28",
+    "len": 1,
+    "s": 18
+   },
+   {
+    "lessonId": "l28",
+    "len": 1,
+    "s": 13
+   },
+   {
+    "lessonId": "l29",
+    "len": 1,
+    "s": 4
+   },
+   {
+    "lessonId": "l29",
+    "len": 1,
+    "s": 20
+   },
+   {
+    "lessonId": "l29",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "l30",
+    "len": 1,
+    "s": 13
+   },
+   {
+    "lessonId": "l30",
+    "len": 1,
+    "s": 1
+   },
+   {
+    "lessonId": "l30",
+    "len": 1,
+    "s": 18
+   },
+   {
+    "lessonId": "l31",
+    "len": 1,
+    "s": 6,
+    "lock": 1
+   },
+   {
+    "lessonId": "l31",
+    "len": 1,
+    "s": 14
+   },
+   {
+    "lessonId": "l31",
+    "len": 1,
+    "s": 2
+   },
+   {
+    "lessonId": "l32",
+    "len": 1,
+    "s": 26
+   },
+   {
+    "lessonId": "l32",
+    "len": 1,
+    "s": 12
+   },
+   {
+    "lessonId": "l32",
+    "len": 1,
+    "s": 3
+   },
+   {
+    "lessonId": "l33",
+    "len": 1,
+    "s": 6
+   },
+   {
+    "lessonId": "l33",
+    "len": 1,
+    "s": 21
+   },
+   {
+    "lessonId": "l33",
+    "len": 1,
+    "s": 15
+   },
+   {
+    "lessonId": "l33",
+    "len": 1,
+    "s": 0
+   },
+   {
+    "lessonId": "l34",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "l34",
+    "len": 1,
+    "s": 16
+   },
+   {
+    "lessonId": "l34",
+    "len": 1,
+    "s": 19
+   },
+   {
+    "lessonId": "l34",
+    "len": 1,
+    "s": 10
+   },
+   {
+    "lessonId": "l35",
+    "len": 1,
+    "s": 15
+   },
+   {
+    "lessonId": "l35",
+    "len": 1,
+    "s": 3
+   },
+   {
+    "lessonId": "l35",
+    "len": 1,
+    "s": 7
+   },
+   {
+    "lessonId": "l35",
+    "len": 1,
+    "s": 22
+   },
+   {
+    "lessonId": "l36",
+    "len": 1,
+    "s": 2
+   },
+   {
+    "lessonId": "l36",
+    "len": 1,
+    "s": 26
+   },
+   {
+    "lessonId": "l36",
+    "len": 1,
+    "s": 9
+   },
+   {
+    "lessonId": "l36",
+    "len": 1,
+    "s": 21
+   },
+   {
+    "lessonId": "l37",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "l37",
+    "len": 1,
+    "s": 14
+   },
+   {
+    "lessonId": "l37",
+    "len": 1,
+    "s": 20
+   },
+   {
+    "lessonId": "l37",
+    "len": 1,
+    "s": 25
+   },
+   {
+    "lessonId": "l38",
+    "len": 1,
+    "s": 22
+   },
+   {
+    "lessonId": "l38",
+    "len": 1,
+    "s": 6
+   },
+   {
+    "lessonId": "l38",
+    "len": 1,
+    "s": 4
+   },
+   {
+    "lessonId": "l38",
+    "len": 1,
+    "s": 15
+   },
+   {
+    "lessonId": "l39",
+    "len": 1,
+    "s": 21
+   },
+   {
+    "lessonId": "l39",
+    "len": 1,
+    "s": 11
+   },
+   {
+    "lessonId": "l39",
+    "len": 1,
+    "s": 0
+   },
+   {
+    "lessonId": "l39",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "l40",
+    "len": 1,
+    "s": 26
+   },
+   {
+    "lessonId": "l40",
+    "len": 1,
+    "s": 18
+   },
+   {
+    "lessonId": "l40",
+    "len": 1,
+    "s": 1
+   },
+   {
+    "lessonId": "l40",
+    "len": 1,
+    "s": 14
+   },
+   {
+    "lessonId": "l41",
+    "len": 1,
+    "s": 25
+   },
+   {
+    "lessonId": "l41",
+    "len": 1,
+    "s": 4
+   },
+   {
+    "lessonId": "l41",
+    "len": 1,
+    "s": 19
+   },
+   {
+    "lessonId": "l41",
+    "len": 1,
+    "s": 11
+   },
+   {
+    "lessonId": "l42",
+    "len": 1,
+    "s": 12
+   },
+   {
+    "lessonId": "l42",
+    "len": 1,
+    "s": 7
+   },
+   {
+    "lessonId": "l42",
+    "len": 1,
+    "s": 28
+   },
+   {
+    "lessonId": "l42",
+    "len": 1,
+    "s": 2
+   },
+   {
+    "lessonId": "l43",
+    "len": 1,
+    "s": 3
+   },
+   {
+    "lessonId": "l43",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "l43",
+    "len": 1,
+    "s": 18
+   },
+   {
+    "lessonId": "l43",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "l44",
+    "len": 1,
+    "s": 22
+   },
+   {
+    "lessonId": "l44",
+    "len": 1,
+    "s": 1
+   },
+   {
+    "lessonId": "l44",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "l45",
+    "len": 1,
+    "s": 10
+   },
+   {
+    "lessonId": "l45",
+    "len": 1,
+    "s": 13
+   },
+   {
+    "lessonId": "l45",
+    "len": 1,
+    "s": 18
+   },
+   {
+    "lessonId": "l46",
+    "len": 1,
+    "s": 4
+   },
+   {
+    "lessonId": "l46",
+    "len": 1,
+    "s": 6
+   },
+   {
+    "lessonId": "l46",
+    "len": 1,
+    "s": 25
+   },
+   {
+    "lessonId": "l47",
+    "len": 1,
+    "s": 3
+   },
+   {
+    "lessonId": "l47",
+    "len": 1,
+    "s": 21
+   },
+   {
+    "lessonId": "l47",
+    "len": 1,
+    "s": 12
+   },
+   {
+    "lessonId": "l48",
+    "len": 1,
+    "s": 14
+   },
+   {
+    "lessonId": "l48",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "l48",
+    "len": 1,
+    "s": 9
+   },
+   {
+    "lessonId": "l49",
+    "len": 1,
+    "s": 13
+   },
+   {
+    "lessonId": "l49",
+    "len": 1,
+    "s": 19
+   },
+   {
+    "lessonId": "l49",
+    "len": 1,
+    "s": 28
+   },
+   {
+    "lessonId": "l49",
+    "len": 1,
+    "s": 9
+   },
+   {
+    "lessonId": "l50",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "l50",
+    "len": 1,
+    "s": 12
+   },
+   {
+    "lessonId": "l50",
+    "len": 1,
+    "s": 2
+   },
+   {
+    "lessonId": "l50",
+    "len": 1,
+    "s": 26
+   },
+   {
+    "lessonId": "l51",
+    "len": 1,
+    "s": 25
+   },
+   {
+    "lessonId": "l51",
+    "len": 1,
+    "s": 0
+   },
+   {
+    "lessonId": "l51",
+    "len": 1,
+    "s": 20
+   },
+   {
+    "lessonId": "l51",
+    "len": 1,
+    "s": 14
+   },
+   {
+    "lessonId": "l52",
+    "len": 1,
+    "s": 16
+   },
+   {
+    "lessonId": "l52",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "l52",
+    "len": 1,
+    "s": 1
+   },
+   {
+    "lessonId": "l52",
+    "len": 1,
+    "s": 18
+   },
+   {
+    "lessonId": "l53",
+    "len": 1,
+    "s": 9
+   },
+   {
+    "lessonId": "l53",
+    "len": 1,
+    "s": 12
+   },
+   {
+    "lessonId": "l53",
+    "len": 1,
+    "s": 20
+   },
+   {
+    "lessonId": "l53",
+    "len": 1,
+    "s": 3
+   },
+   {
+    "lessonId": "l54",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "l54",
+    "len": 1,
+    "s": 21
+   },
+   {
+    "lessonId": "l54",
+    "len": 1,
+    "s": 1
+   },
+   {
+    "lessonId": "l55",
+    "len": 1,
+    "s": 16
+   },
+   {
+    "lessonId": "l55",
+    "len": 1,
+    "s": 7
+   },
+   {
+    "lessonId": "l55",
+    "len": 1,
+    "s": 19
+   },
+   {
+    "lessonId": "l56",
+    "len": 1,
+    "s": 3
+   },
+   {
+    "lessonId": "l56",
+    "len": 1,
+    "s": 15
+   },
+   {
+    "lessonId": "l56",
+    "len": 1,
+    "s": 28
+   },
+   {
+    "lessonId": "l57",
+    "len": 1,
+    "s": 4
+   },
+   {
+    "lessonId": "l57",
+    "len": 1,
+    "s": 20
+   },
+   {
+    "lessonId": "l57",
+    "len": 1,
+    "s": 9
+   },
+   {
+    "lessonId": "l58",
+    "len": 1,
+    "s": 22
+   },
+   {
+    "lessonId": "l58",
+    "len": 1,
+    "s": 11
+   },
+   {
+    "lessonId": "l58",
+    "len": 1,
+    "s": 13
+   },
+   {
+    "lessonId": "l59",
+    "len": 1,
+    "s": 6
+   },
+   {
+    "lessonId": "l59",
+    "len": 1,
+    "s": 25
+   },
+   {
+    "lessonId": "l59",
+    "len": 1,
+    "s": 14
+   },
+   {
+    "lessonId": "l60",
+    "len": 1,
+    "s": 2
+   },
+   {
+    "lessonId": "l60",
+    "len": 1,
+    "s": 14
+   },
+   {
+    "lessonId": "l60",
+    "len": 1,
+    "s": 6
+   },
+   {
+    "lessonId": "l60",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "l61",
+    "len": 1,
+    "s": 7
+   },
+   {
+    "lessonId": "l61",
+    "len": 1,
+    "s": 14
+   },
+   {
+    "lessonId": "l61",
+    "len": 1,
+    "s": 25
+   },
+   {
+    "lessonId": "l61",
+    "len": 1,
+    "s": 2
+   },
+   {
+    "lessonId": "l62",
+    "len": 1,
+    "s": 9
+   },
+   {
+    "lessonId": "l62",
+    "len": 1,
+    "s": 12
+   },
+   {
+    "lessonId": "l62",
+    "len": 1,
+    "s": 26
+   },
+   {
+    "lessonId": "l62",
+    "len": 1,
+    "s": 19
+   },
+   {
+    "lessonId": "l63",
+    "len": 1,
+    "s": 22
+   },
+   {
+    "lessonId": "l63",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "l63",
+    "len": 1,
+    "s": 0
+   },
+   {
+    "lessonId": "l63",
+    "len": 1,
+    "s": 15
+   },
+   {
+    "lessonId": "l64",
+    "len": 1,
+    "s": 18
+   },
+   {
+    "lessonId": "l64",
+    "len": 1,
+    "s": 6
+   },
+   {
+    "lessonId": "l64",
+    "len": 1,
+    "s": 1
+   },
+   {
+    "lessonId": "l64",
+    "len": 1,
+    "s": 16
+   },
+   {
+    "lessonId": "l65",
+    "len": 1,
+    "s": 10
+   },
+   {
+    "lessonId": "l65",
+    "len": 1,
+    "s": 3
+   },
+   {
+    "lessonId": "l65",
+    "len": 1,
+    "s": 12
+   },
+   {
+    "lessonId": "l65",
+    "len": 1,
+    "s": 18
+   },
+   {
+    "lessonId": "l66",
+    "len": 1,
+    "s": 13
+   },
+   {
+    "lessonId": "l66",
+    "len": 1,
+    "s": 4
+   },
+   {
+    "lessonId": "l66",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "l66",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "l67",
+    "len": 1,
+    "s": 28
+   },
+   {
+    "lessonId": "l67",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "l67",
+    "len": 1,
+    "s": 0
+   },
+   {
+    "lessonId": "l67",
+    "len": 1,
+    "s": 21
+   },
+   {
+    "lessonId": "l68",
+    "len": 1,
+    "s": 16
+   },
+   {
+    "lessonId": "l68",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "l68",
+    "len": 1,
+    "s": 20
+   },
+   {
+    "lessonId": "l68",
+    "len": 1,
+    "s": 9
+   },
+   {
+    "lessonId": "l69",
+    "len": 1,
+    "s": 26
+   },
+   {
+    "lessonId": "l69",
+    "len": 1,
+    "s": 12
+   },
+   {
+    "lessonId": "l69",
+    "len": 1,
+    "s": 10
+   },
+   {
+    "lessonId": "l69",
+    "len": 1,
+    "s": 4
+   },
+   {
+    "lessonId": "l70",
+    "len": 1,
+    "s": 21
+   },
+   {
+    "lessonId": "l70",
+    "len": 1,
+    "s": 1
+   },
+   {
+    "lessonId": "l71",
+    "len": 1,
+    "s": 14
+   },
+   {
+    "lessonId": "l72",
+    "len": 1,
+    "s": 16
+   },
+   {
+    "lessonId": "l72",
+    "len": 1,
+    "s": 0
+   },
+   {
+    "lessonId": "l73",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "l74",
+    "len": 1,
+    "s": 4
+   },
+   {
+    "lessonId": "l74",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "l75",
+    "len": 1,
+    "s": 19
+   },
+   {
+    "lessonId": "l76",
+    "len": 1,
+    "s": 28
+   },
+   {
+    "lessonId": "l76",
+    "len": 1,
+    "s": 7
+   },
+   {
+    "lessonId": "l77",
+    "len": 1,
+    "s": 15
+   },
+   {
+    "lessonId": "l78",
+    "len": 1,
+    "s": 16
+   },
+   {
+    "lessonId": "l78",
+    "len": 1,
+    "s": 25
+   },
+   {
+    "lessonId": "l79",
+    "len": 1,
+    "s": 10
+   },
+   {
+    "lessonId": "l80",
+    "len": 1,
+    "s": 13
+   },
+   {
+    "lessonId": "l80",
+    "len": 1,
+    "s": 11
+   },
+   {
+    "lessonId": "l81",
+    "len": 1,
+    "s": 26
+   },
+   {
+    "lessonId": "l82",
+    "len": 1,
+    "s": 10
+   },
+   {
+    "lessonId": "l82",
+    "len": 1,
+    "s": 15
+   },
+   {
+    "lessonId": "l83",
+    "len": 1,
+    "s": 28
+   },
+   {
+    "lessonId": "l83",
+    "len": 1,
+    "s": 3
+   },
+   {
+    "lessonId": "l84",
+    "len": 1,
+    "s": 0
+   },
+   {
+    "lessonId": "l84",
+    "len": 1,
+    "s": 21
+   },
+   {
+    "lessonId": "l85",
+    "len": 1,
+    "s": 16
+   },
+   {
+    "lessonId": "l85",
+    "len": 1,
+    "s": 9
+   },
+   {
+    "lessonId": "l86",
+    "len": 1,
+    "s": 4
+   },
+   {
+    "lessonId": "l86",
+    "len": 1,
+    "s": 7
+   },
+   {
+    "lessonId": "l87",
+    "len": 1,
+    "s": 3
+   },
+   {
+    "lessonId": "l88",
+    "len": 1,
+    "s": 9
+   },
+   {
+    "lessonId": "l89",
+    "len": 1,
+    "s": 15
+   },
+   {
+    "lessonId": "l90",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "l91",
+    "len": 1,
+    "s": 25
+   },
+   {
+    "lessonId": "l92",
+    "len": 1,
+    "s": 6
+   },
+   {
+    "lessonId": "l92",
+    "len": 1,
+    "s": 28
+   },
+   {
+    "lessonId": "l92",
+    "len": 1,
+    "s": 0
+   },
+   {
+    "lessonId": "l93",
+    "len": 1,
+    "s": 22
+   },
+   {
+    "lessonId": "l93",
+    "len": 1,
+    "s": 7
+   },
+   {
+    "lessonId": "l93",
+    "len": 1,
+    "s": 13
+   },
+   {
+    "lessonId": "l94",
+    "len": 1,
+    "s": 4
+   },
+   {
+    "lessonId": "l94",
+    "len": 1,
+    "s": 20
+   },
+   {
+    "lessonId": "l94",
+    "len": 1,
+    "s": 16
+   },
+   {
+    "lessonId": "l95",
+    "len": 1,
+    "s": 1
+   },
+   {
+    "lessonId": "l95",
+    "len": 1,
+    "s": 6
+   },
+   {
+    "lessonId": "l95",
+    "len": 1,
+    "s": 13
+   },
+   {
+    "lessonId": "l96",
+    "len": 1,
+    "s": 12
+   },
+   {
+    "lessonId": "l96",
+    "len": 1,
+    "s": 22
+   },
+   {
+    "lessonId": "l96",
+    "len": 1,
+    "s": 7
+   },
+   {
+    "lessonId": "l97",
+    "len": 1,
+    "s": 16
+   },
+   {
+    "lessonId": "l98",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "l99",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "l100",
+    "len": 1,
+    "s": 6
+   },
+   {
+    "lessonId": "l101",
+    "len": 1,
+    "s": 25
+   },
+   {
+    "lessonId": "l102",
+    "len": 1,
+    "s": 12
+   },
+   {
+    "lessonId": "l103",
+    "len": 1,
+    "s": 14
+   },
+   {
+    "lessonId": "l104",
+    "len": 1,
+    "s": 13
+   },
+   {
+    "lessonId": "l105",
+    "len": 1,
+    "s": 11
+   },
+   {
+    "lessonId": "l106",
+    "len": 1,
+    "s": 12
+   },
+   {
+    "lessonId": "l107",
+    "len": 1,
+    "s": 19
+   },
+   {
+    "lessonId": "l108",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "l109",
+    "len": 1,
+    "s": 0
+   },
+   {
+    "lessonId": "l110",
+    "len": 1,
+    "s": 18
+   },
+   {
+    "lessonId": "l111",
+    "len": 1,
+    "s": 7
+   },
+   {
+    "lessonId": "l112",
+    "len": 1,
+    "s": 19
+   },
+   {
+    "lessonId": "l113",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "l114",
+    "len": 1,
+    "s": 3
+   },
+   {
+    "lessonId": "l115",
+    "len": 1,
+    "s": 4
+   },
+   {
+    "lessonId": "l116",
+    "len": 1,
+    "s": 2
+   },
+   {
+    "lessonId": "l117",
+    "len": 1,
+    "s": 9
+   },
+   {
+    "lessonId": "l118",
+    "len": 1,
+    "s": 16
+   },
+   {
+    "lessonId": "l119",
+    "len": 1,
+    "s": 10
+   },
+   {
+    "lessonId": "l120",
+    "len": 1,
+    "s": 28
+   },
+   {
+    "lessonId": "l121",
+    "len": 1,
+    "s": 15
+   },
+   {
+    "lessonId": "l122",
+    "len": 1,
+    "s": 22
+   },
+   {
+    "lessonId": "l123",
+    "len": 1,
+    "s": 14
+   },
+   {
+    "lessonId": "l124",
+    "len": 1,
+    "s": 13
+   },
+   {
+    "lessonId": "l125",
+    "len": 1,
+    "s": 10
+   },
+   {
+    "lessonId": "l126",
+    "len": 1,
+    "s": 21
+   },
+   {
+    "lessonId": "l127",
+    "len": 1,
+    "s": 26
+   },
+   {
+    "lessonId": "l128",
+    "len": 1,
+    "s": 22
+   },
+   {
+    "lessonId": "l129",
+    "len": 1,
+    "s": 21
+   },
+   {
+    "lessonId": "l130",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "l131",
+    "len": 1,
+    "s": 3
+   },
+   {
+    "lessonId": "l132",
+    "len": 1,
+    "s": 3,
+    "lock": 1
+   },
+   {
+    "lessonId": "l132",
+    "len": 1,
+    "s": 10,
+    "lock": 1
+   },
+   {
+    "lessonId": "l132",
+    "len": 1,
+    "s": 26,
+    "lock": 1
+   },
+   {
+    "lessonId": "l133",
+    "len": 1,
+    "s": 1,
+    "lock": 1
+   },
+   {
+    "lessonId": "l133",
+    "len": 1,
+    "s": 9,
+    "lock": 1
+   },
+   {
+    "lessonId": "l133",
+    "len": 1,
+    "s": 22,
+    "lock": 1
+   },
+   {
+    "lessonId": "l134",
+    "len": 1,
+    "s": 2,
+    "lock": 1
+   },
+   {
+    "lessonId": "l134",
+    "len": 1,
+    "s": 16,
+    "lock": 1
+   },
+   {
+    "lessonId": "l134",
+    "len": 1,
+    "s": 27,
+    "lock": 1
+   },
+   {
+    "lessonId": "l135",
+    "len": 1,
+    "s": 0,
+    "lock": 1
+   },
+   {
+    "lessonId": "l135",
+    "len": 1,
+    "s": 12,
+    "lock": 1
+   },
+   {
+    "lessonId": "l135",
+    "len": 1,
+    "s": 21,
+    "lock": 1
+   },
+   {
+    "lessonId": "l136",
+    "len": 1,
+    "s": 7,
+    "lock": 1
+   },
+   {
+    "lessonId": "l136",
+    "len": 1,
+    "s": 14,
+    "lock": 1
+   },
+   {
+    "lessonId": "l136",
+    "len": 1,
+    "s": 28,
+    "lock": 1
+   },
+   {
+    "lessonId": "l137",
+    "len": 1,
+    "s": 8,
+    "lock": 1
+   },
+   {
+    "lessonId": "l137",
+    "len": 1,
+    "s": 13,
+    "lock": 1
+   },
+   {
+    "lessonId": "l137",
+    "len": 1,
+    "s": 20,
+    "lock": 1
+   },
+   {
+    "lessonId": "l138",
+    "len": 1,
+    "s": 7,
+    "lock": 1
+   },
+   {
+    "lessonId": "l138",
+    "len": 1,
+    "s": 14,
+    "lock": 1
+   },
+   {
+    "lessonId": "l138",
+    "len": 1,
+    "s": 24,
+    "lock": 1
+   },
+   {
+    "lessonId": "l139",
+    "len": 1,
+    "s": 4,
+    "lock": 1
+   },
+   {
+    "lessonId": "l139",
+    "len": 1,
+    "s": 18,
+    "lock": 1
+   },
+   {
+    "lessonId": "l139",
+    "len": 1,
+    "s": 25,
+    "lock": 1
+   },
+   {
+    "lessonId": "l140",
+    "len": 1,
+    "s": 6,
+    "lock": 1
+   },
+   {
+    "lessonId": "l140",
+    "len": 1,
+    "s": 15,
+    "lock": 1
+   },
+   {
+    "lessonId": "l140",
+    "len": 1,
+    "s": 19,
+    "lock": 1
+   },
+   {
+    "lessonId": "l141",
+    "len": 1,
+    "s": 6
+   },
+   {
+    "lessonId": "l142",
+    "len": 1,
+    "s": 18
+   },
+   {
+    "lessonId": "l143",
+    "len": 1,
+    "s": 13
+   },
+   {
+    "lessonId": "l144",
+    "len": 1,
+    "s": 14
+   },
+   {
+    "lessonId": "l145",
+    "len": 1,
+    "s": 12
+   },
+   {
+    "lessonId": "l146",
+    "len": 1,
+    "s": 20
+   },
+   {
+    "lessonId": "l147",
+    "len": 1,
+    "s": 18
+   },
+   {
+    "lessonId": "l148",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "l149",
+    "len": 1,
+    "s": 15
+   },
+   {
+    "lessonId": "l150",
+    "len": 1,
+    "s": 4
+   },
+   {
+    "lessonId": "l151",
+    "len": 1,
+    "s": 14
+   },
+   {
+    "lessonId": "l152",
+    "len": 1,
+    "s": 10
+   },
+   {
+    "lessonId": "l153",
+    "len": 1,
+    "s": 4
+   },
+   {
+    "lessonId": "l154",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "l155",
+    "len": 1,
+    "s": 16
+   },
+   {
+    "lessonId": "l156",
+    "len": 1,
+    "s": 10,
+    "lock": 1
+   },
+   {
+    "lessonId": "l157",
+    "len": 1,
+    "s": 22
+   },
+   {
+    "lessonId": "l158",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "l159",
+    "len": 1,
+    "s": 6
+   },
+   {
+    "lessonId": "l160",
+    "len": 1,
+    "s": 20
+   },
+   {
+    "lessonId": "l161",
+    "len": 1,
+    "s": 26
+   },
+   {
+    "lessonId": "l162",
+    "len": 1,
+    "s": 28,
+    "lock": 1
+   },
+   {
+    "lessonId": "l163",
+    "len": 1,
+    "s": 2
+   },
+   {
+    "lessonId": "l164",
+    "len": 1,
+    "s": 1
+   },
+   {
+    "lessonId": "l165",
+    "len": 1,
+    "s": 0
+   },
+   {
+    "lessonId": "l188",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "l189",
+    "len": 1,
+    "s": 12
+   },
+   {
+    "lessonId": "l190",
+    "len": 1,
+    "s": 20,
+    "lock": 1
+   },
+   {
+    "lessonId": "l190",
+    "len": 1,
+    "s": 7
+   },
+   {
+    "lessonId": "l191",
+    "len": 1,
+    "s": 13,
+    "lock": 1
+   },
+   {
+    "lessonId": "l191",
+    "len": 1,
+    "s": 0
+   },
+   {
+    "lessonId": "l192",
+    "len": 1,
+    "s": 16,
+    "lock": 1
+   },
+   {
+    "lessonId": "l192",
+    "len": 1,
+    "s": 26
+   },
+   {
+    "lessonId": "l193",
+    "len": 1,
+    "s": 15,
+    "lock": 1
+   },
+   {
+    "lessonId": "l193",
+    "len": 1,
+    "s": 4
+   },
+   {
+    "lessonId": "l193",
+    "len": 1,
+    "s": 25
+   },
+   {
+    "lessonId": "l194",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "l195",
+    "len": 1,
+    "s": 22
+   },
+   {
+    "lessonId": "l196",
+    "len": 1,
+    "s": 18
+   },
+   {
+    "lessonId": "l197",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "l198",
+    "len": 1,
+    "s": 20
+   },
+   {
+    "lessonId": "l199",
+    "len": 1,
+    "s": 12
+   },
+   {
+    "lessonId": "l199",
+    "len": 1,
+    "s": 4
+   },
+   {
+    "lessonId": "l199",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "l199",
+    "len": 1,
+    "s": 18
+   },
+   {
+    "lessonId": "l199",
+    "len": 1,
+    "s": 11
+   },
+   {
+    "lessonId": "l200",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "l200",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "l201",
+    "len": 1,
+    "s": 21,
+    "lock": 1
+   },
+   {
+    "lessonId": "l202",
+    "len": 1,
+    "s": 21
+   },
+   {
+    "lessonId": "l218",
+    "len": 1,
+    "s": 2
+   },
+   {
+    "lessonId": "l219",
+    "len": 1,
+    "s": 20
+   },
+   {
+    "lessonId": "lmvg7p2ttriuh",
+    "len": 1,
+    "s": 28
+   },
+   {
+    "lessonId": "lmvg7p2ttpu1i",
+    "len": 1,
+    "s": 20
+   },
+   {
+    "lessonId": "lmvg7p2ttv2tn",
+    "len": 1,
+    "s": 25
+   },
+   {
+    "lessonId": "lmvg7p2ttmvvr",
+    "len": 1,
+    "s": 26
+   },
+   {
+    "lessonId": "lmvg7p2ttlms4",
+    "len": 1,
+    "s": 22
+   },
+   {
+    "lessonId": "lmvg7p2ttnibw",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "lmvg7p2tth4km",
+    "len": 1,
+    "s": 18
+   },
+   {
+    "lessonId": "lmvg7p2tt8nn7",
+    "len": 1,
+    "s": 19
+   },
+   {
+    "lessonId": "lmvg7pk6moho9",
+    "len": 1,
+    "s": 22
+   },
+   {
+    "lessonId": "lmvg7pk6myfzx",
+    "len": 1,
+    "s": 20
+   },
+   {
+    "lessonId": "lmvg7pk6mcyjc",
+    "len": 1,
+    "s": 21
+   },
+   {
+    "lessonId": "lmvg7pk6m3agb",
+    "len": 1,
+    "s": 25
+   },
+   {
+    "lessonId": "lmvg7pk6mvoc8",
+    "len": 1,
+    "s": 24
+   },
+   {
+    "lessonId": "lmvg7pk6mi86r",
+    "len": 1,
+    "s": 19
+   },
+   {
+    "lessonId": "lmvg7pk6mcjcq",
+    "len": 1,
+    "s": 28
+   },
+   {
+    "lessonId": "lmvg7pk6mxqpg",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "auto_fmvfxkw2bqwx7_g1",
+    "len": 1,
+    "s": 5
+   },
+   {
+    "lessonId": "auto_fmvfxkw2bqwx7_g2",
+    "len": 1,
+    "s": 5
+   },
+   {
+    "lessonId": "auto_fmvfxkw2bqwx7_g3",
+    "len": 1,
+    "s": 5
+   },
+   {
+    "lessonId": "auto_fmvfxkw2bqwx7_gsp",
+    "len": 1,
+    "s": 5
+   },
+   {
+    "lessonId": "auto_fmvfxleu0simq_g1",
+    "len": 1,
+    "s": 29
+   },
+   {
+    "lessonId": "auto_fmvfxleu0simq_g2",
+    "len": 1,
+    "s": 29
+   },
+   {
+    "lessonId": "auto_fmvfxleu0simq_g3",
+    "len": 1,
+    "s": 29
+   },
+   {
+    "lessonId": "auto_fmvfxleu0simq_gsp",
+    "len": 1,
+    "s": 29
+   },
+   {
+    "lessonId": "auto_fmvfxopn8vugz_g2",
+    "len": 1,
+    "s": 11
+   },
+   {
+    "lessonId": "auto_fmvfxopn8vugz_g3",
+    "len": 1,
+    "s": 11
+   },
+   {
+    "lessonId": "auto_fmvfxopn8vugz_gsp",
+    "len": 1,
+    "s": 11
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_c1A",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_c1B",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_c1C",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_c1D",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_c1E",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_c1F",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_c2A",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_c2B",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_c2C",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_c2D",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_c2E",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_c3A",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_c3B",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_c3C",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_c3D",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_c3E",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_fmvfxpaqn3081_cmvg3wdb6p4lj",
+    "len": 1,
+    "s": 17
+   },
+   {
+    "lessonId": "auto_shonin_shmvgbmlz5w94v_n",
+    "len": 1,
+    "s": 26
+   },
+   {
+    "lessonId": "auto_shonin_shmvgbmlz5w94v_n",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "auto_shonin_shmvgbmlz5w94v_m",
+    "len": 1,
+    "s": 25
+   },
+   {
+    "lessonId": "auto_shonin_shmvgbmlz5w94v_m",
+    "len": 1,
+    "s": 27
+   },
+   {
+    "lessonId": "auto_shonin_shmvgbn5f281cf_n",
+    "len": 1,
+    "s": 8
+   },
+   {
+    "lessonId": "auto_shonin_shmvgbn5f281cf_n",
+    "len": 1,
+    "s": 9
+   }
+  ],
+  "unplaced": 32
+ },
+ "savedAt": 1792479971413,
+ "rules": {
+  "gradeFree": {
+   "on": true,
+   "n": 1
+  },
+  "noFullMorning": {
+   "on": true,
+   "k": 4,
+   "ex": []
+  },
+  "maxDay": {
+   "on": true,
+   "n": 5,
+   "ex": []
+  },
+  "maxRun": {
+   "on": false,
+   "n": 3,
+   "ex": []
+  },
+  "amEnd": 4,
+  "posHard": [
+   {
+    "on": true,
+    "w": 3,
+    "where": "first",
+    "max": 2
+   },
+   {
+    "on": true,
+    "w": 4,
+    "where": "first",
+    "max": 2
+   },
+   {
+    "on": true,
+    "w": 4,
+    "where": "pm",
+    "max": 2
+   }
+  ],
+  "soft": {
+   "rooms": [
+    {
+     "on": true,
+     "room": "r_sci",
+     "cap": 2
+    }
+   ],
+   "gradeHop": {
+    "on": true
+   },
+   "pos": [
+    {
+     "on": true,
+     "w": 3,
+     "where": "pm",
+     "max": 1
+    },
+    {
+     "on": true,
+     "w": 3,
+     "where": "first",
+     "max": 1
+    }
+   ]
+  },
+  "adj": [
+   {
+    "on": true,
+    "a": "s9",
+    "b": [
+     "s4",
+     "s6",
+     "s7",
+     "s8",
+     "s10",
+     "s11",
+     "s12"
+    ]
+   },
+   {
+    "on": true,
+    "a": "s6",
+    "b": [
+     "s7",
+     "s8",
+     "s9",
+     "s10",
+     "s11",
+     "s12"
+    ]
+   },
+   {
+    "on": true,
+    "a": "s7",
+    "b": [
+     "s6",
+     "s8",
+     "s9",
+     "s10",
+     "s11",
+     "s12"
+    ]
+   },
+   {
+    "on": true,
+    "a": "s10",
+    "b": [
+     "s6",
+     "s7",
+     "s8",
+     "s9",
+     "s12"
+    ]
+   },
+   {
+    "on": true,
+    "a": "s11",
+    "b": [
+     "s6",
+     "s7",
+     "s8",
+     "s9",
+     "s12"
+    ]
+   },
+   {
+    "on": true,
+    "a": "s12",
+    "b": [
+     "s6",
+     "s7",
+     "s8",
+     "s9",
+     "s10",
+     "s11"
+    ]
+   }
+  ],
+  "sameDay": [
+   {
+    "on": true,
+    "a": "s8",
+    "b": "s6"
+   },
+   {
+    "on": true,
+    "a": "s8",
+    "b": "s7"
+   }
+  ],
+  "noHopT": {
+   "on": true,
+   "ts": [
+    "t19"
+   ]
+  }
+ },
+ "fixed": [
+  {
+   "id": "fmvfxkw2bqwx7",
+   "subject": "s13",
+   "grades": [
+    "1",
+    "2",
+    "3",
+    "sp"
+   ],
+   "slots": [
+    "0-5"
+   ],
+   "hours": 1,
+   "teacherMode": "grade",
+   "mode": "joint",
+   "_dropped": []
+  },
+  {
+   "id": "fmvfxleu0simq",
+   "subject": "smvfy60i256uu",
+   "grades": [
+    "1",
+    "2",
+    "3",
+    "sp"
+   ],
+   "slots": [
+    "4-5"
+   ],
+   "hours": 1,
+   "teacherMode": "grade",
+   "mode": "joint",
+   "_dropped": []
+  },
+  {
+   "id": "fmvfxopn8vugz",
+   "subject": "smvfy60i256uu",
+   "grades": [
+    "2",
+    "3",
+    "sp"
+   ],
+   "slots": [
+    "1-5"
+   ],
+   "hours": 1,
+   "teacherMode": "grade",
+   "mode": "joint",
+   "_dropped": []
+  },
+  {
+   "id": "fmvfxpaqn3081",
+   "subject": "smvfy5mqyniap",
+   "grades": [
+    "1",
+    "2",
+    "3",
+    "sp"
+   ],
+   "slots": [
+    "2-5"
+   ],
+   "hours": 1,
+   "teacherMode": "homeroom",
+   "mode": "class",
+   "_dropped": [
+    "t10",
+    "t7"
+   ]
+  }
+ ],
+ "manualInit": true,
+ "spAttach": true,
+ "snapshots": [
+  {
+   "id": "snapmvgcad76wdfm",
+   "name": "記録2（10/20 16:05）",
+   "at": 1792479960402,
+   "res": {
+    "sig": "-1465549347",
+    "at": 1792479730597,
+    "items": [
+     [
+      "l1",
+      1,
+      27,
+      0
+     ],
+     [
+      "l1",
+      1,
+      2,
+      0
+     ],
+     [
+      "l1",
+      1,
+      20,
+      0
+     ],
+     [
+      "l1",
+      1,
+      12,
+      0
+     ],
+     [
+      "l2",
+      1,
+      13,
+      0
+     ],
+     [
+      "l2",
+      1,
+      26,
+      0
+     ],
+     [
+      "l2",
+      1,
+      19,
+      0
+     ],
+     [
+      "l2",
+      1,
+      8,
+      0
+     ],
+     [
+      "l3",
+      1,
+      10,
+      0
+     ],
+     [
+      "l3",
+      1,
+      22,
+      0
+     ],
+     [
+      "l3",
+      1,
+      0,
+      0
+     ],
+     [
+      "l3",
+      1,
+      15,
+      0
+     ],
+     [
+      "l4",
+      1,
+      28,
+      0
+     ],
+     [
+      "l4",
+      1,
+      6,
+      0
+     ],
+     [
+      "l4",
+      1,
+      21,
+      0
+     ],
+     [
+      "l4",
+      1,
+      3,
+      0
+     ],
+     [
+      "l5",
+      1,
+      20,
+      0
+     ],
+     [
+      "l5",
+      1,
+      9,
+      0
+     ],
+     [
+      "l5",
+      1,
+      2,
+      0
+     ],
+     [
+      "l5",
+      1,
+      25,
+      0
+     ],
+     [
+      "l6",
+      1,
+      26,
+      0
+     ],
+     [
+      "l6",
+      1,
+      10,
+      0
+     ],
+     [
+      "l6",
+      1,
+      3,
+      0
+     ],
+     [
+      "l6",
+      1,
+      21,
+      0
+     ],
+     [
+      "l7",
+      1,
+      28,
+      0
+     ],
+     [
+      "l7",
+      1,
+      20,
+      0
+     ],
+     [
+      "l7",
+      1,
+      16,
+      0
+     ],
+     [
+      "l8",
+      1,
+      26,
+      0
+     ],
+     [
+      "l8",
+      1,
+      19,
+      0
+     ],
+     [
+      "l8",
+      1,
+      15,
+      0
+     ],
+     [
+      "l9",
+      1,
+      2,
+      0
+     ],
+     [
+      "l9",
+      1,
+      8,
+      0
+     ],
+     [
+      "l9",
+      1,
+      27,
+      0
+     ],
+     [
+      "l10",
+      1,
+      25,
+      0
+     ],
+     [
+      "l10",
+      1,
+      7,
+      0
+     ],
+     [
+      "l10",
+      1,
+      1,
+      0
+     ],
+     [
+      "l11",
+      1,
+      10,
+      0
+     ],
+     [
+      "l11",
+      1,
+      21,
+      0
+     ],
+     [
+      "l11",
+      1,
+      0,
+      0
+     ],
+     [
+      "l12",
+      1,
+      7,
+      0
+     ],
+     [
+      "l13",
+      1,
+      1,
+      0
+     ],
+     [
+      "l14",
+      1,
+      22,
+      0
+     ],
+     [
+      "l15",
+      1,
+      19,
+      0
+     ],
+     [
+      "l16",
+      1,
+      27,
+      1
+     ],
+     [
+      "l17",
+      1,
+      1,
+      0
+     ],
+     [
+      "l17",
+      1,
+      27,
+      0
+     ],
+     [
+      "l17",
+      1,
+      8,
+      0
+     ],
+     [
+      "l18",
+      1,
+      15,
+      0
+     ],
+     [
+      "l18",
+      1,
+      26,
+      0
+     ],
+     [
+      "l18",
+      1,
+      7,
+      0
+     ],
+     [
+      "l19",
+      1,
+      14,
+      0
+     ],
+     [
+      "l19",
+      1,
+      10,
+      0
+     ],
+     [
+      "l19",
+      1,
+      24,
+      0
+     ],
+     [
+      "l20",
+      1,
+      18,
+      0
+     ],
+     [
+      "l20",
+      1,
+      3,
+      0
+     ],
+     [
+      "l20",
+      1,
+      16,
+      0
+     ],
+     [
+      "l21",
+      1,
+      28,
+      0
+     ],
+     [
+      "l21",
+      1,
+      2,
+      0
+     ],
+     [
+      "l21",
+      1,
+      9,
+      0
+     ],
+     [
+      "l22",
+      1,
+      24,
+      0
+     ],
+     [
+      "l22",
+      1,
+      9,
+      0
+     ],
+     [
+      "l22",
+      1,
+      13,
+      0
+     ],
+     [
+      "l23",
+      1,
+      11,
+      0
+     ],
+     [
+      "l23",
+      1,
+      27,
+      0
+     ],
+     [
+      "l23",
+      1,
+      12,
+      0
+     ],
+     [
+      "l24",
+      1,
+      8,
+      0
+     ],
+     [
+      "l24",
+      1,
+      4,
+      0
+     ],
+     [
+      "l24",
+      1,
+      19,
+      0
+     ],
+     [
+      "l25",
+      1,
+      27,
+      0
+     ],
+     [
+      "l25",
+      1,
+      2,
+      0
+     ],
+     [
+      "l25",
+      1,
+      7,
+      0
+     ],
+     [
+      "l26",
+      1,
+      6,
+      0
+     ],
+     [
+      "l26",
+      1,
+      1,
+      0
+     ],
+     [
+      "l26",
+      1,
+      28,
+      0
+     ],
+     [
+      "l27",
+      1,
+      9,
+      0
+     ],
+     [
+      "l27",
+      1,
+      0,
+      0
+     ],
+     [
+      "l27",
+      1,
+      15,
+      0
+     ],
+     [
+      "l28",
+      1,
+      25,
+      0
+     ],
+     [
+      "l28",
+      1,
+      18,
+      0
+     ],
+     [
+      "l28",
+      1,
+      13,
+      0
+     ],
+     [
+      "l29",
+      1,
+      4,
+      0
+     ],
+     [
+      "l29",
+      1,
+      20,
+      0
+     ],
+     [
+      "l29",
+      1,
+      24,
+      0
+     ],
+     [
+      "l30",
+      1,
+      13,
+      0
+     ],
+     [
+      "l30",
+      1,
+      1,
+      0
+     ],
+     [
+      "l30",
+      1,
+      18,
+      0
+     ],
+     [
+      "l31",
+      1,
+      6,
+      1
+     ],
+     [
+      "l31",
+      1,
+      14,
+      0
+     ],
+     [
+      "l31",
+      1,
+      2,
+      0
+     ],
+     [
+      "l32",
+      1,
+      26,
+      0
+     ],
+     [
+      "l32",
+      1,
+      12,
+      0
+     ],
+     [
+      "l32",
+      1,
+      3,
+      0
+     ],
+     [
+      "l33",
+      1,
+      6,
+      0
+     ],
+     [
+      "l33",
+      1,
+      21,
+      0
+     ],
+     [
+      "l33",
+      1,
+      15,
+      0
+     ],
+     [
+      "l33",
+      1,
+      0,
+      0
+     ],
+     [
+      "l34",
+      1,
+      27,
+      0
+     ],
+     [
+      "l34",
+      1,
+      16,
+      0
+     ],
+     [
+      "l34",
+      1,
+      19,
+      0
+     ],
+     [
+      "l34",
+      1,
+      10,
+      0
+     ],
+     [
+      "l35",
+      1,
+      15,
+      0
+     ],
+     [
+      "l35",
+      1,
+      3,
+      0
+     ],
+     [
+      "l35",
+      1,
+      7,
+      0
+     ],
+     [
+      "l35",
+      1,
+      22,
+      0
+     ],
+     [
+      "l36",
+      1,
+      2,
+      0
+     ],
+     [
+      "l36",
+      1,
+      26,
+      0
+     ],
+     [
+      "l36",
+      1,
+      9,
+      0
+     ],
+     [
+      "l36",
+      1,
+      21,
+      0
+     ],
+     [
+      "l37",
+      1,
+      8,
+      0
+     ],
+     [
+      "l37",
+      1,
+      14,
+      0
+     ],
+     [
+      "l37",
+      1,
+      20,
+      0
+     ],
+     [
+      "l37",
+      1,
+      25,
+      0
+     ],
+     [
+      "l38",
+      1,
+      22,
+      0
+     ],
+     [
+      "l38",
+      1,
+      6,
+      0
+     ],
+     [
+      "l38",
+      1,
+      4,
+      0
+     ],
+     [
+      "l38",
+      1,
+      15,
+      0
+     ],
+     [
+      "l39",
+      1,
+      21,
+      0
+     ],
+     [
+      "l39",
+      1,
+      11,
+      0
+     ],
+     [
+      "l39",
+      1,
+      0,
+      0
+     ],
+     [
+      "l39",
+      1,
+      24,
+      0
+     ],
+     [
+      "l40",
+      1,
+      26,
+      0
+     ],
+     [
+      "l40",
+      1,
+      18,
+      0
+     ],
+     [
+      "l40",
+      1,
+      1,
+      0
+     ],
+     [
+      "l40",
+      1,
+      14,
+      0
+     ],
+     [
+      "l41",
+      1,
+      25,
+      0
+     ],
+     [
+      "l41",
+      1,
+      4,
+      0
+     ],
+     [
+      "l41",
+      1,
+      19,
+      0
+     ],
+     [
+      "l41",
+      1,
+      11,
+      0
+     ],
+     [
+      "l42",
+      1,
+      12,
+      0
+     ],
+     [
+      "l42",
+      1,
+      7,
+      0
+     ],
+     [
+      "l42",
+      1,
+      28,
+      0
+     ],
+     [
+      "l42",
+      1,
+      2,
+      0
+     ],
+     [
+      "l43",
+      1,
+      3,
+      0
+     ],
+     [
+      "l43",
+      1,
+      24,
+      0
+     ],
+     [
+      "l43",
+      1,
+      18,
+      0
+     ],
+     [
+      "l43",
+      1,
+      8,
+      0
+     ],
+     [
+      "l44",
+      1,
+      22,
+      0
+     ],
+     [
+      "l44",
+      1,
+      1,
+      0
+     ],
+     [
+      "l44",
+      1,
+      8,
+      0
+     ],
+     [
+      "l45",
+      1,
+      10,
+      0
+     ],
+     [
+      "l45",
+      1,
+      13,
+      0
+     ],
+     [
+      "l45",
+      1,
+      18,
+      0
+     ],
+     [
+      "l46",
+      1,
+      4,
+      0
+     ],
+     [
+      "l46",
+      1,
+      6,
+      0
+     ],
+     [
+      "l46",
+      1,
+      25,
+      0
+     ],
+     [
+      "l47",
+      1,
+      3,
+      0
+     ],
+     [
+      "l47",
+      1,
+      21,
+      0
+     ],
+     [
+      "l47",
+      1,
+      12,
+      0
+     ],
+     [
+      "l48",
+      1,
+      14,
+      0
+     ],
+     [
+      "l48",
+      1,
+      24,
+      0
+     ],
+     [
+      "l48",
+      1,
+      9,
+      0
+     ],
+     [
+      "l49",
+      1,
+      13,
+      0
+     ],
+     [
+      "l49",
+      1,
+      19,
+      0
+     ],
+     [
+      "l49",
+      1,
+      28,
+      0
+     ],
+     [
+      "l49",
+      1,
+      9,
+      0
+     ],
+     [
+      "l50",
+      1,
+      8,
+      0
+     ],
+     [
+      "l50",
+      1,
+      12,
+      0
+     ],
+     [
+      "l50",
+      1,
+      2,
+      0
+     ],
+     [
+      "l50",
+      1,
+      26,
+      0
+     ],
+     [
+      "l51",
+      1,
+      25,
+      0
+     ],
+     [
+      "l51",
+      1,
+      0,
+      0
+     ],
+     [
+      "l51",
+      1,
+      20,
+      0
+     ],
+     [
+      "l51",
+      1,
+      14,
+      0
+     ],
+     [
+      "l52",
+      1,
+      16,
+      0
+     ],
+     [
+      "l52",
+      1,
+      24,
+      0
+     ],
+     [
+      "l52",
+      1,
+      1,
+      0
+     ],
+     [
+      "l52",
+      1,
+      18,
+      0
+     ],
+     [
+      "l53",
+      1,
+      9,
+      0
+     ],
+     [
+      "l53",
+      1,
+      12,
+      0
+     ],
+     [
+      "l53",
+      1,
+      20,
+      0
+     ],
+     [
+      "l53",
+      1,
+      3,
+      0
+     ],
+     [
+      "l54",
+      1,
+      8,
+      0
+     ],
+     [
+      "l54",
+      1,
+      21,
+      0
+     ],
+     [
+      "l54",
+      1,
+      1,
+      0
+     ],
+     [
+      "l55",
+      1,
+      16,
+      0
+     ],
+     [
+      "l55",
+      1,
+      7,
+      0
+     ],
+     [
+      "l55",
+      1,
+      19,
+      0
+     ],
+     [
+      "l56",
+      1,
+      3,
+      0
+     ],
+     [
+      "l56",
+      1,
+      15,
+      0
+     ],
+     [
+      "l56",
+      1,
+      28,
+      0
+     ],
+     [
+      "l57",
+      1,
+      4,
+      0
+     ],
+     [
+      "l57",
+      1,
+      20,
+      0
+     ],
+     [
+      "l57",
+      1,
+      9,
+      0
+     ],
+     [
+      "l58",
+      1,
+      22,
+      0
+     ],
+     [
+      "l58",
+      1,
+      11,
+      0
+     ],
+     [
+      "l58",
+      1,
+      13,
+      0
+     ],
+     [
+      "l59",
+      1,
+      6,
+      0
+     ],
+     [
+      "l59",
+      1,
+      25,
+      0
+     ],
+     [
+      "l59",
+      1,
+      14,
+      0
+     ],
+     [
+      "l60",
+      1,
+      2,
+      0
+     ],
+     [
+      "l60",
+      1,
+      14,
+      0
+     ],
+     [
+      "l60",
+      1,
+      6,
+      0
+     ],
+     [
+      "l60",
+      1,
+      24,
+      0
+     ],
+     [
+      "l61",
+      1,
+      7,
+      0
+     ],
+     [
+      "l61",
+      1,
+      14,
+      0
+     ],
+     [
+      "l61",
+      1,
+      25,
+      0
+     ],
+     [
+      "l61",
+      1,
+      2,
+      0
+     ],
+     [
+      "l62",
+      1,
+      9,
+      0
+     ],
+     [
+      "l62",
+      1,
+      12,
+      0
+     ],
+     [
+      "l62",
+      1,
+      26,
+      0
+     ],
+     [
+      "l62",
+      1,
+      19,
+      0
+     ],
+     [
+      "l63",
+      1,
+      22,
+      0
+     ],
+     [
+      "l63",
+      1,
+      27,
+      0
+     ],
+     [
+      "l63",
+      1,
+      0,
+      0
+     ],
+     [
+      "l63",
+      1,
+      15,
+      0
+     ],
+     [
+      "l64",
+      1,
+      18,
+      0
+     ],
+     [
+      "l64",
+      1,
+      6,
+      0
+     ],
+     [
+      "l64",
+      1,
+      1,
+      0
+     ],
+     [
+      "l64",
+      1,
+      16,
+      0
+     ],
+     [
+      "l65",
+      1,
+      10,
+      0
+     ],
+     [
+      "l65",
+      1,
+      3,
+      0
+     ],
+     [
+      "l65",
+      1,
+      12,
+      0
+     ],
+     [
+      "l65",
+      1,
+      18,
+      0
+     ],
+     [
+      "l66",
+      1,
+      13,
+      0
+     ],
+     [
+      "l66",
+      1,
+      4,
+      0
+     ],
+     [
+      "l66",
+      1,
+      8,
+      0
+     ],
+     [
+      "l66",
+      1,
+      24,
+      0
+     ],
+     [
+      "l67",
+      1,
+      28,
+      0
+     ],
+     [
+      "l67",
+      1,
+      8,
+      0
+     ],
+     [
+      "l67",
+      1,
+      0,
+      0
+     ],
+     [
+      "l67",
+      1,
+      21,
+      0
+     ],
+     [
+      "l68",
+      1,
+      16,
+      0
+     ],
+     [
+      "l68",
+      1,
+      27,
+      0
+     ],
+     [
+      "l68",
+      1,
+      20,
+      0
+     ],
+     [
+      "l68",
+      1,
+      9,
+      0
+     ],
+     [
+      "l69",
+      1,
+      26,
+      0
+     ],
+     [
+      "l69",
+      1,
+      12,
+      0
+     ],
+     [
+      "l69",
+      1,
+      10,
+      0
+     ],
+     [
+      "l69",
+      1,
+      4,
+      0
+     ],
+     [
+      "l70",
+      1,
+      21,
+      0
+     ],
+     [
+      "l70",
+      1,
+      1,
+      0
+     ],
+     [
+      "l71",
+      1,
+      14,
+      0
+     ],
+     [
+      "l72",
+      1,
+      16,
+      0
+     ],
+     [
+      "l72",
+      1,
+      0,
+      0
+     ],
+     [
+      "l73",
+      1,
+      27,
+      0
+     ],
+     [
+      "l74",
+      1,
+      4,
+      0
+     ],
+     [
+      "l74",
+      1,
+      8,
+      0
+     ],
+     [
+      "l75",
+      1,
+      19,
+      0
+     ],
+     [
+      "l76",
+      1,
+      28,
+      0
+     ],
+     [
+      "l76",
+      1,
+      7,
+      0
+     ],
+     [
+      "l77",
+      1,
+      15,
+      0
+     ],
+     [
+      "l78",
+      1,
+      16,
+      0
+     ],
+     [
+      "l78",
+      1,
+      25,
+      0
+     ],
+     [
+      "l79",
+      1,
+      10,
+      0
+     ],
+     [
+      "l80",
+      1,
+      13,
+      0
+     ],
+     [
+      "l80",
+      1,
+      11,
+      0
+     ],
+     [
+      "l81",
+      1,
+      26,
+      0
+     ],
+     [
+      "l82",
+      1,
+      10,
+      0
+     ],
+     [
+      "l82",
+      1,
+      15,
+      0
+     ],
+     [
+      "l83",
+      1,
+      28,
+      0
+     ],
+     [
+      "l83",
+      1,
+      3,
+      0
+     ],
+     [
+      "l84",
+      1,
+      0,
+      0
+     ],
+     [
+      "l84",
+      1,
+      21,
+      0
+     ],
+     [
+      "l85",
+      1,
+      16,
+      0
+     ],
+     [
+      "l85",
+      1,
+      9,
+      0
+     ],
+     [
+      "l86",
+      1,
+      4,
+      0
+     ],
+     [
+      "l86",
+      1,
+      7,
+      0
+     ],
+     [
+      "l87",
+      1,
+      3,
+      0
+     ],
+     [
+      "l88",
+      1,
+      9,
+      0
+     ],
+     [
+      "l89",
+      1,
+      15,
+      0
+     ],
+     [
+      "l90",
+      1,
+      24,
+      0
+     ],
+     [
+      "l91",
+      1,
+      25,
+      0
+     ],
+     [
+      "l92",
+      1,
+      6,
+      0
+     ],
+     [
+      "l92",
+      1,
+      28,
+      0
+     ],
+     [
+      "l92",
+      1,
+      0,
+      0
+     ],
+     [
+      "l93",
+      1,
+      22,
+      0
+     ],
+     [
+      "l93",
+      1,
+      7,
+      0
+     ],
+     [
+      "l93",
+      1,
+      13,
+      0
+     ],
+     [
+      "l94",
+      1,
+      4,
+      0
+     ],
+     [
+      "l94",
+      1,
+      20,
+      0
+     ],
+     [
+      "l94",
+      1,
+      16,
+      0
+     ],
+     [
+      "l95",
+      1,
+      1,
+      0
+     ],
+     [
+      "l95",
+      1,
+      6,
+      0
+     ],
+     [
+      "l95",
+      1,
+      13,
+      0
+     ],
+     [
+      "l96",
+      1,
+      12,
+      0
+     ],
+     [
+      "l96",
+      1,
+      22,
+      0
+     ],
+     [
+      "l96",
+      1,
+      7,
+      0
+     ],
+     [
+      "l97",
+      1,
+      16,
+      0
+     ],
+     [
+      "l98",
+      1,
+      8,
+      0
+     ],
+     [
+      "l99",
+      1,
+      24,
+      0
+     ],
+     [
+      "l100",
+      1,
+      6,
+      0
+     ],
+     [
+      "l101",
+      1,
+      25,
+      0
+     ],
+     [
+      "l102",
+      1,
+      12,
+      0
+     ],
+     [
+      "l103",
+      1,
+      14,
+      0
+     ],
+     [
+      "l104",
+      1,
+      13,
+      0
+     ],
+     [
+      "l105",
+      1,
+      11,
+      0
+     ],
+     [
+      "l106",
+      1,
+      12,
+      0
+     ],
+     [
+      "l107",
+      1,
+      19,
+      0
+     ],
+     [
+      "l108",
+      1,
+      24,
+      0
+     ],
+     [
+      "l109",
+      1,
+      0,
+      0
+     ],
+     [
+      "l110",
+      1,
+      18,
+      0
+     ],
+     [
+      "l111",
+      1,
+      7,
+      0
+     ],
+     [
+      "l112",
+      1,
+      19,
+      0
+     ],
+     [
+      "l113",
+      1,
+      27,
+      0
+     ],
+     [
+      "l114",
+      1,
+      3,
+      0
+     ],
+     [
+      "l115",
+      1,
+      4,
+      0
+     ],
+     [
+      "l116",
+      1,
+      2,
+      0
+     ],
+     [
+      "l117",
+      1,
+      9,
+      0
+     ],
+     [
+      "l118",
+      1,
+      16,
+      0
+     ],
+     [
+      "l119",
+      1,
+      10,
+      0
+     ],
+     [
+      "l120",
+      1,
+      28,
+      0
+     ],
+     [
+      "l121",
+      1,
+      15,
+      0
+     ],
+     [
+      "l122",
+      1,
+      22,
+      0
+     ],
+     [
+      "l123",
+      1,
+      14,
+      0
+     ],
+     [
+      "l124",
+      1,
+      13,
+      0
+     ],
+     [
+      "l125",
+      1,
+      10,
+      0
+     ],
+     [
+      "l126",
+      1,
+      21,
+      0
+     ],
+     [
+      "l127",
+      1,
+      26,
+      0
+     ],
+     [
+      "l128",
+      1,
+      22,
+      0
+     ],
+     [
+      "l129",
+      1,
+      21,
+      0
+     ],
+     [
+      "l130",
+      1,
+      27,
+      0
+     ],
+     [
+      "l131",
+      1,
+      3,
+      0
+     ],
+     [
+      "l132",
+      1,
+      3,
+      1
+     ],
+     [
+      "l132",
+      1,
+      10,
+      1
+     ],
+     [
+      "l132",
+      1,
+      26,
+      1
+     ],
+     [
+      "l133",
+      1,
+      1,
+      1
+     ],
+     [
+      "l133",
+      1,
+      9,
+      1
+     ],
+     [
+      "l133",
+      1,
+      22,
+      1
+     ],
+     [
+      "l134",
+      1,
+      2,
+      1
+     ],
+     [
+      "l134",
+      1,
+      16,
+      1
+     ],
+     [
+      "l134",
+      1,
+      27,
+      1
+     ],
+     [
+      "l135",
+      1,
+      0,
+      1
+     ],
+     [
+      "l135",
+      1,
+      12,
+      1
+     ],
+     [
+      "l135",
+      1,
+      21,
+      1
+     ],
+     [
+      "l136",
+      1,
+      7,
+      1
+     ],
+     [
+      "l136",
+      1,
+      14,
+      1
+     ],
+     [
+      "l136",
+      1,
+      28,
+      1
+     ],
+     [
+      "l137",
+      1,
+      8,
+      1
+     ],
+     [
+      "l137",
+      1,
+      13,
+      1
+     ],
+     [
+      "l137",
+      1,
+      20,
+      1
+     ],
+     [
+      "l138",
+      1,
+      7,
+      1
+     ],
+     [
+      "l138",
+      1,
+      14,
+      1
+     ],
+     [
+      "l138",
+      1,
+      24,
+      1
+     ],
+     [
+      "l139",
+      1,
+      4,
+      1
+     ],
+     [
+      "l139",
+      1,
+      18,
+      1
+     ],
+     [
+      "l139",
+      1,
+      25,
+      1
+     ],
+     [
+      "l140",
+      1,
+      6,
+      1
+     ],
+     [
+      "l140",
+      1,
+      15,
+      1
+     ],
+     [
+      "l140",
+      1,
+      19,
+      1
+     ],
+     [
+      "l141",
+      1,
+      6,
+      0
+     ],
+     [
+      "l142",
+      1,
+      18,
+      0
+     ],
+     [
+      "l143",
+      1,
+      13,
+      0
+     ],
+     [
+      "l144",
+      1,
+      14,
+      0
+     ],
+     [
+      "l145",
+      1,
+      12,
+      0
+     ],
+     [
+      "l146",
+      1,
+      20,
+      0
+     ],
+     [
+      "l147",
+      1,
+      18,
+      0
+     ],
+     [
+      "l148",
+      1,
+      24,
+      0
+     ],
+     [
+      "l149",
+      1,
+      15,
+      0
+     ],
+     [
+      "l150",
+      1,
+      4,
+      0
+     ],
+     [
+      "l151",
+      1,
+      14,
+      0
+     ],
+     [
+      "l152",
+      1,
+      10,
+      0
+     ],
+     [
+      "l153",
+      1,
+      4,
+      0
+     ],
+     [
+      "l154",
+      1,
+      8,
+      0
+     ],
+     [
+      "l155",
+      1,
+      16,
+      0
+     ],
+     [
+      "l156",
+      1,
+      10,
+      1
+     ],
+     [
+      "l157",
+      1,
+      22,
+      0
+     ],
+     [
+      "l158",
+      1,
+      27,
+      0
+     ],
+     [
+      "l159",
+      1,
+      6,
+      0
+     ],
+     [
+      "l160",
+      1,
+      20,
+      0
+     ],
+     [
+      "l161",
+      1,
+      26,
+      0
+     ],
+     [
+      "l162",
+      1,
+      28,
+      1
+     ],
+     [
+      "l163",
+      1,
+      2,
+      0
+     ],
+     [
+      "l164",
+      1,
+      1,
+      0
+     ],
+     [
+      "l165",
+      1,
+      0,
+      0
+     ],
+     [
+      "l188",
+      1,
+      24,
+      0
+     ],
+     [
+      "l189",
+      1,
+      12,
+      0
+     ],
+     [
+      "l190",
+      1,
+      20,
+      1
+     ],
+     [
+      "l190",
+      1,
+      7,
+      0
+     ],
+     [
+      "l191",
+      1,
+      13,
+      1
+     ],
+     [
+      "l191",
+      1,
+      0,
+      0
+     ],
+     [
+      "l192",
+      1,
+      16,
+      1
+     ],
+     [
+      "l192",
+      1,
+      26,
+      0
+     ],
+     [
+      "l193",
+      1,
+      15,
+      1
+     ],
+     [
+      "l193",
+      1,
+      4,
+      0
+     ],
+     [
+      "l193",
+      1,
+      25,
+      0
+     ],
+     [
+      "l194",
+      1,
+      27,
+      0
+     ],
+     [
+      "l195",
+      1,
+      22,
+      0
+     ],
+     [
+      "l196",
+      1,
+      18,
+      0
+     ],
+     [
+      "l197",
+      1,
+      8,
+      0
+     ],
+     [
+      "l198",
+      1,
+      20,
+      0
+     ],
+     [
+      "l199",
+      1,
+      12,
+      0
+     ],
+     [
+      "l199",
+      1,
+      4,
+      0
+     ],
+     [
+      "l199",
+      1,
+      24,
+      0
+     ],
+     [
+      "l199",
+      1,
+      18,
+      0
+     ],
+     [
+      "l199",
+      1,
+      11,
+      0
+     ],
+     [
+      "l200",
+      1,
+      27,
+      0
+     ],
+     [
+      "l200",
+      1,
+      8,
+      0
+     ],
+     [
+      "l201",
+      1,
+      21,
+      1
+     ],
+     [
+      "l202",
+      1,
+      21,
+      0
+     ],
+     [
+      "l218",
+      1,
+      2,
+      0
+     ],
+     [
+      "l219",
+      1,
+      20,
+      0
+     ],
+     [
+      "lmvg7p2ttriuh",
+      1,
+      28,
+      0
+     ],
+     [
+      "lmvg7p2ttpu1i",
+      1,
+      20,
+      0
+     ],
+     [
+      "lmvg7p2ttv2tn",
+      1,
+      25,
+      0
+     ],
+     [
+      "lmvg7p2ttmvvr",
+      1,
+      26,
+      0
+     ],
+     [
+      "lmvg7p2ttlms4",
+      1,
+      22,
+      0
+     ],
+     [
+      "lmvg7p2ttnibw",
+      1,
+      24,
+      0
+     ],
+     [
+      "lmvg7p2tth4km",
+      1,
+      18,
+      0
+     ],
+     [
+      "lmvg7p2tt8nn7",
+      1,
+      19,
+      0
+     ],
+     [
+      "lmvg7pk6moho9",
+      1,
+      22,
+      0
+     ],
+     [
+      "lmvg7pk6myfzx",
+      1,
+      20,
+      0
+     ],
+     [
+      "lmvg7pk6mcyjc",
+      1,
+      21,
+      0
+     ],
+     [
+      "lmvg7pk6m3agb",
+      1,
+      25,
+      0
+     ],
+     [
+      "lmvg7pk6mvoc8",
+      1,
+      24,
+      0
+     ],
+     [
+      "lmvg7pk6mi86r",
+      1,
+      19,
+      0
+     ],
+     [
+      "lmvg7pk6mcjcq",
+      1,
+      28,
+      0
+     ],
+     [
+      "lmvg7pk6mxqpg",
+      1,
+      27,
+      0
+     ],
+     [
+      "auto_fmvfxkw2bqwx7_g1",
+      1,
+      5,
+      0
+     ],
+     [
+      "auto_fmvfxkw2bqwx7_g2",
+      1,
+      5,
+      0
+     ],
+     [
+      "auto_fmvfxkw2bqwx7_g3",
+      1,
+      5,
+      0
+     ],
+     [
+      "auto_fmvfxkw2bqwx7_gsp",
+      1,
+      5,
+      0
+     ],
+     [
+      "auto_fmvfxleu0simq_g1",
+      1,
+      29,
+      0
+     ],
+     [
+      "auto_fmvfxleu0simq_g2",
+      1,
+      29,
+      0
+     ],
+     [
+      "auto_fmvfxleu0simq_g3",
+      1,
+      29,
+      0
+     ],
+     [
+      "auto_fmvfxleu0simq_gsp",
+      1,
+      29,
+      0
+     ],
+     [
+      "auto_fmvfxopn8vugz_g2",
+      1,
+      11,
+      0
+     ],
+     [
+      "auto_fmvfxopn8vugz_g3",
+      1,
+      11,
+      0
+     ],
+     [
+      "auto_fmvfxopn8vugz_gsp",
+      1,
+      11,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_c1A",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_c1B",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_c1C",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_c1D",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_c1E",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_c1F",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_c2A",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_c2B",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_c2C",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_c2D",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_c2E",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_c3A",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_c3B",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_c3C",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_c3D",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_c3E",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_fmvfxpaqn3081_cmvg3wdb6p4lj",
+      1,
+      17,
+      0
+     ],
+     [
+      "auto_shonin_shmvgbmlz5w94v_n",
+      1,
+      26,
+      0
+     ],
+     [
+      "auto_shonin_shmvgbmlz5w94v_n",
+      1,
+      27,
+      0
+     ],
+     [
+      "auto_shonin_shmvgbmlz5w94v_m",
+      1,
+      25,
+      0
+     ],
+     [
+      "auto_shonin_shmvgbmlz5w94v_m",
+      1,
+      27,
+      0
+     ],
+     [
+      "auto_shonin_shmvgbn5f281cf_n",
+      1,
+      8,
+      0
+     ],
+     [
+      "auto_shonin_shmvgbn5f281cf_n",
+      1,
+      9,
+      0
+     ]
+    ]
+   }
+  }
+ ],
+ "shonin": [
+  {
+   "id": "shmvgbmlz5w94v",
+   "novice": "t10",
+   "mentor": "t9",
+   "day": "4"
+  },
+  {
+   "id": "shmvgbn5f281cf",
+   "novice": "t7",
+   "mentor": "",
+   "day": "1"
+  }
+ ]
+}
